@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\setting_challege.jpg",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\setting_challege.jpg"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher_round.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d224e1593bff343abb394e4e4cbcefecd3bc22d1\\output\\res\\mipmap-xxhdpi-v4\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg.jpg",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\bg.jpg"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d224e1593bff343abb394e4e4cbcefecd3bc22d1\\output\\res\\mipmap-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\star_bg.jpg",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d224e1593bff343abb394e4e4cbcefecd3bc22d1\\output\\res\\mipmap-xxhdpi-v4\\star_bg.jpg"
+    }
+]

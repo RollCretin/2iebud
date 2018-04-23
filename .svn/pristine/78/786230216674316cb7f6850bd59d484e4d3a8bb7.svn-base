@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.hxjf.dubei.ui.activity.MainActivity">
+    <FrameLayout
+        android:id="@+id/action_bar_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </FrameLayout>
+
+
+    <FrameLayout
+        android:id="@+id/frag_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        >
+
+    </FrameLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginBottom="4dp"
+        android:background="@color/gray"/>
+    <RadioGroup
+        android:id="@+id/tab_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <RadioButton
+            android:id="@+id/tab_challenge"
+            style="@style/TabStyle"
+            android:checked="true"
+            android:text="@string/challenge"
+            android:drawableTop="@drawable/tab_challenge_selector"
+            />
+
+
+
+        <RadioButton
+            android:id="@+id/tab_bookshelf"
+            style="@style/TabStyle"
+            android:text="@string/bookshelf"
+            android:drawableTop="@drawable/tab_bookshelf_selector"
+            />
+        <RadioButton
+            android:id="@+id/tab_home"
+            style="@style/TabStyle"
+            android:text="@string/home"
+            android:drawableTop="@drawable/tab_home_selector"
+            />
+
+        <RadioButton
+            android:id="@+id/tab_discovery"
+            style="@style/TabStyle"
+            android:text="@string/discovery"
+            android:drawableTop="@drawable/tab_discovery_selector"
+            />
+        <RadioButton
+            android:id="@+id/tab_me"
+            style="@style/TabStyle"
+            android:text="@string/me"
+            android:drawableTop="@drawable/tab_me_selector"
+            />
+    </RadioGroup>
+
+
+</LinearLayout>

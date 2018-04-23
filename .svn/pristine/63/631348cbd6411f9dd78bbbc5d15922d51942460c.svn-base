@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true" android:drawable="@mipmap/note_gray_circle"/>
+    <item android:state_selected="true" android:drawable="@mipmap/note_gray_circle"/>
+    <item android:drawable="@mipmap/note_blue_stroke_circle"/>
+</selector>

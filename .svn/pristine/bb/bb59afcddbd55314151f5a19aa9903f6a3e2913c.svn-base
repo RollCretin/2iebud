@@ -1,0 +1,56 @@
+// Generated code from Butter Knife. Do not modify!
+package com.hxjf.dubei.ui.activity;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.view.View;
+import android.widget.ImageView;
+import butterknife.Unbinder;
+import butterknife.internal.DebouncingOnClickListener;
+import butterknife.internal.Utils;
+import com.hxjf.dubei.R;
+import com.itheima.pulltorefreshlib.PullToRefreshListView;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class ChallengeUserActivity_ViewBinding implements Unbinder {
+  private ChallengeUserActivity target;
+
+  private View view2131755329;
+
+  @UiThread
+  public ChallengeUserActivity_ViewBinding(ChallengeUserActivity target) {
+    this(target, target.getWindow().getDecorView());
+  }
+
+  @UiThread
+  public ChallengeUserActivity_ViewBinding(final ChallengeUserActivity target, View source) {
+    this.target = target;
+
+    View view;
+    target.challengeUserList = Utils.findRequiredViewAsType(source, R.id.challenge_user_list, "field 'challengeUserList'", PullToRefreshListView.class);
+    view = Utils.findRequiredView(source, R.id.challenge_user_return, "field 'challengeUserReturn' and method 'onClick'");
+    target.challengeUserReturn = Utils.castView(view, R.id.challenge_user_return, "field 'challengeUserReturn'", ImageView.class);
+    view2131755329 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick();
+      }
+    });
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    ChallengeUserActivity target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.challengeUserList = null;
+    target.challengeUserReturn = null;
+
+    view2131755329.setOnClickListener(null);
+    view2131755329 = null;
+  }
+}

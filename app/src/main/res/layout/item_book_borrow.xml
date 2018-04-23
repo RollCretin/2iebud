@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:paddingBottom="20dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:paddingTop="20dp">
+
+    <ImageView
+        android:id="@+id/item_book_borrow_image"
+        android:layout_width="80dp"
+        android:layout_height="116dp"
+        android:scaleType="fitXY"
+        android:src="@color/sec_gray" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="116dp"
+        android:layout_marginLeft="15dp"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/item_book_borrow_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/book_name1"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/item_book_borrow_author"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="@string/author1"
+                android:textColor="@color/gray"
+                android:textSize="12sp" />
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:orientation="horizontal">
+
+                <RatingBar
+                    android:id="@+id/item_book_borrow_ratingbar"
+                    style="@style/RadingStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:isIndicator="true"
+                    android:maxHeight="10dp"
+                    android:minHeight="10dp"
+                    android:rating="4.1"
+                    android:stepSize="0.1" />
+
+                <TextView
+                    android:id="@+id/item_book_borrow_score"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="8.1分/豆瓣"
+                    android:textColor="@color/gray"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+        </LinearLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                >
+                <TextView
+                    android:id="@+id/item_book_borrow_location"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="12sp"
+                    android:textColor="@color/black"
+                    android:drawableLeft="@mipmap/location"
+                    android:drawablePadding="5dp"
+                    android:text="1.5 KM"/>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:orientation="horizontal">
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/item_book_borrow_pratroit"
+                    android:layout_width="16dp"
+                    android:layout_height="16dp"
+                    android:src="@mipmap/dubei_dafult_pratroit"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="12sp"
+                    android:textColor="@color/gray"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:text="来自"/>
+                <TextView
+                    android:id="@+id/item_book_borrow_formwho"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="旧时光咖啡"
+                    android:textSize="12sp"
+                    android:textColor="@color/black"/>
+                </LinearLayout>
+
+            </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

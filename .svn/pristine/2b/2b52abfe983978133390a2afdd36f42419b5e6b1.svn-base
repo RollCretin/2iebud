@@ -1,0 +1,167 @@
+// Generated code from Butter Knife. Do not modify!
+package com.hxjf.dubei.ui.activity;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.view.View;
+import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.TextView;
+import butterknife.Unbinder;
+import butterknife.internal.DebouncingOnClickListener;
+import butterknife.internal.Utils;
+import com.hxjf.dubei.R;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class MyExperienceActivity_ViewBinding implements Unbinder {
+  private MyExperienceActivity target;
+
+  private View view2131755442;
+
+  private View view2131755443;
+
+  private View view2131755444;
+
+  private View view2131755445;
+
+  private View view2131755446;
+
+  private View view2131755447;
+
+  private View view2131755449;
+
+  private View view2131755407;
+
+  private View view2131755448;
+
+  @UiThread
+  public MyExperienceActivity_ViewBinding(MyExperienceActivity target) {
+    this(target, target.getWindow().getDecorView());
+  }
+
+  @UiThread
+  public MyExperienceActivity_ViewBinding(final MyExperienceActivity target, View source) {
+    this.target = target;
+
+    View view;
+    view = Utils.findRequiredView(source, R.id.experience_back, "field 'experienceBack' and method 'onClick'");
+    target.experienceBack = Utils.castView(view, R.id.experience_back, "field 'experienceBack'", ImageView.class);
+    view2131755442 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.experience_save, "field 'experienceSave' and method 'onClick'");
+    target.experienceSave = Utils.castView(view, R.id.experience_save, "field 'experienceSave'", TextView.class);
+    view2131755443 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.experienc_company_name, "field 'experiencCompanyName' and method 'onClick'");
+    target.experiencCompanyName = Utils.castView(view, R.id.experienc_company_name, "field 'experiencCompanyName'", EditText.class);
+    view2131755444 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.experience_industry, "field 'experienceIndustry' and method 'onClick'");
+    target.experienceIndustry = Utils.castView(view, R.id.experience_industry, "field 'experienceIndustry'", TextView.class);
+    view2131755445 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.textView, "field 'textView' and method 'onClick'");
+    target.textView = Utils.castView(view, R.id.textView, "field 'textView'", TextView.class);
+    view2131755446 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.experience_touxian, "field 'experienceTouxian' and method 'onClick'");
+    target.experienceTouxian = Utils.castView(view, R.id.experience_touxian, "field 'experienceTouxian'", EditText.class);
+    view2131755447 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.experience_time, "field 'experienceTime' and method 'onClick'");
+    target.experienceTime = Utils.castView(view, R.id.experience_time, "field 'experienceTime'", TextView.class);
+    view2131755449 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.experience_delete, "field 'experienceDelete' and method 'onClick'");
+    target.experienceDelete = Utils.castView(view, R.id.experience_delete, "field 'experienceDelete'", TextView.class);
+    view2131755407 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.experience_end_time, "field 'experienceEndTime' and method 'onClick'");
+    target.experienceEndTime = Utils.castView(view, R.id.experience_end_time, "field 'experienceEndTime'", TextView.class);
+    view2131755448 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    MyExperienceActivity target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.experienceBack = null;
+    target.experienceSave = null;
+    target.experiencCompanyName = null;
+    target.experienceIndustry = null;
+    target.textView = null;
+    target.experienceTouxian = null;
+    target.experienceTime = null;
+    target.experienceDelete = null;
+    target.experienceEndTime = null;
+
+    view2131755442.setOnClickListener(null);
+    view2131755442 = null;
+    view2131755443.setOnClickListener(null);
+    view2131755443 = null;
+    view2131755444.setOnClickListener(null);
+    view2131755444 = null;
+    view2131755445.setOnClickListener(null);
+    view2131755445 = null;
+    view2131755446.setOnClickListener(null);
+    view2131755446 = null;
+    view2131755447.setOnClickListener(null);
+    view2131755447 = null;
+    view2131755449.setOnClickListener(null);
+    view2131755449 = null;
+    view2131755407.setOnClickListener(null);
+    view2131755407 = null;
+    view2131755448.setOnClickListener(null);
+    view2131755448 = null;
+  }
+}

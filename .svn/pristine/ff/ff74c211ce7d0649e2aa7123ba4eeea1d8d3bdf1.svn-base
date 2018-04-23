@@ -1,0 +1,59 @@
+// Generated code from Butter Knife. Do not modify!
+package com.hxjf.dubei.ui.activity;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.view.View;
+import android.widget.ImageView;
+import android.widget.ListView;
+import butterknife.Unbinder;
+import butterknife.internal.DebouncingOnClickListener;
+import butterknife.internal.Utils;
+import com.hxjf.dubei.R;
+import com.scwang.smartrefresh.layout.SmartRefreshLayout;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class NoticeActivity_ViewBinding implements Unbinder {
+  private NoticeActivity target;
+
+  private View view2131755492;
+
+  @UiThread
+  public NoticeActivity_ViewBinding(NoticeActivity target) {
+    this(target, target.getWindow().getDecorView());
+  }
+
+  @UiThread
+  public NoticeActivity_ViewBinding(final NoticeActivity target, View source) {
+    this.target = target;
+
+    View view;
+    view = Utils.findRequiredView(source, R.id.notice_back, "field 'noticeBack' and method 'onClick'");
+    target.noticeBack = Utils.castView(view, R.id.notice_back, "field 'noticeBack'", ImageView.class);
+    view2131755492 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick();
+      }
+    });
+    target.myMessageNoticeList = Utils.findRequiredViewAsType(source, R.id.my_message_notice_list, "field 'myMessageNoticeList'", ListView.class);
+    target.myMessageRefresh = Utils.findRequiredViewAsType(source, R.id.my_message_refresh, "field 'myMessageRefresh'", SmartRefreshLayout.class);
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    NoticeActivity target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.noticeBack = null;
+    target.myMessageNoticeList = null;
+    target.myMessageRefresh = null;
+
+    view2131755492.setOnClickListener(null);
+    view2131755492 = null;
+  }
+}

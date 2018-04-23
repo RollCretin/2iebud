@@ -1,0 +1,78 @@
+// Generated code from Butter Knife. Do not modify!
+package com.hxjf.dubei.ui.activity;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.view.View;
+import android.widget.HorizontalScrollView;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import butterknife.Unbinder;
+import butterknife.internal.DebouncingOnClickListener;
+import butterknife.internal.Utils;
+import com.hxjf.dubei.R;
+import com.hxjf.dubei.widget.MyGridView;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class ChallegeBookActivity_ViewBinding implements Unbinder {
+  private ChallegeBookActivity target;
+
+  private View view2131755308;
+
+  private View view2131755309;
+
+  @UiThread
+  public ChallegeBookActivity_ViewBinding(ChallegeBookActivity target) {
+    this(target, target.getWindow().getDecorView());
+  }
+
+  @UiThread
+  public ChallegeBookActivity_ViewBinding(final ChallegeBookActivity target, View source) {
+    this.target = target;
+
+    View view;
+    view = Utils.findRequiredView(source, R.id.challege_book_search, "field 'challegeBookSearch' and method 'onClick'");
+    target.challegeBookSearch = Utils.castView(view, R.id.challege_book_search, "field 'challegeBookSearch'", ImageView.class);
+    view2131755308 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.challege_book_return, "field 'challegeBookReturn' and method 'onClick'");
+    target.challegeBookReturn = Utils.castView(view, R.id.challege_book_return, "field 'challegeBookReturn'", ImageView.class);
+    view2131755309 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.challegeBookContainerBook = Utils.findRequiredViewAsType(source, R.id.challege_book_container_book, "field 'challegeBookContainerBook'", LinearLayout.class);
+    target.discoverySvBookList = Utils.findRequiredViewAsType(source, R.id.discovery_sv_book_list, "field 'discoverySvBookList'", HorizontalScrollView.class);
+    target.challegeBookGv = Utils.findRequiredViewAsType(source, R.id.challege_book_gv, "field 'challegeBookGv'", MyGridView.class);
+    target.challegeBookLlHotbook = Utils.findRequiredViewAsType(source, R.id.challege_book_ll_hotbook, "field 'challegeBookLlHotbook'", LinearLayout.class);
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    ChallegeBookActivity target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.challegeBookSearch = null;
+    target.challegeBookReturn = null;
+    target.challegeBookContainerBook = null;
+    target.discoverySvBookList = null;
+    target.challegeBookGv = null;
+    target.challegeBookLlHotbook = null;
+
+    view2131755308.setOnClickListener(null);
+    view2131755308 = null;
+    view2131755309.setOnClickListener(null);
+    view2131755309 = null;
+  }
+}

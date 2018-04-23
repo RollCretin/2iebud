@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+       <com.ecloud.pulltozoomview.PullToZoomScrollViewEx
+            android:id="@+id/me_scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </com.ecloud.pulltozoomview.PullToZoomScrollViewEx>
+
+    <TextView
+        android:id="@+id/me_nonet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"
+        android:drawablePadding="20dp"
+        android:drawableTop="@mipmap/all_no_wifi_ic"
+        android:text="网络状态异常，请点击重试"
+        android:textColor="@color/gray"
+        android:textSize="16dp" />
+   <!-- <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/me"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/me_setting"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:src="@mipmap/setting" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray" />
+
+    <LinearLayout
+        android:id="@+id/me_infoemation"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@android:color/white">
+
+        &lt;!&ndash;头像、昵称和标签&ndash;&gt;
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp">
+
+            <ImageView
+                android:id="@+id/me_my_protrait"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_weight="2"
+                android:src="@mipmap/portrait2" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_weight="8"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/me_my_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/my_name"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/me_information_arrow"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:paddingRight="15dp"
+                android:src="@mipmap/arrow" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/me_autograph"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:paddingRight="15dp"
+            android:paddingLeft="88dp"
+            android:textSize="12sp"
+            android:text="@string/autograph" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginTop="30dp"
+            android:background="@color/gray" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/white">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/me_my_note"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="14sp"
+            android:textColor="@color/black"
+            android:text="@string/my_note"
+            android:drawableLeft="@mipmap/my_note"
+            />
+
+        </LinearLayout>
+
+         <TextView
+             android:layout_width="1px"
+             android:layout_height="16dp"
+             android:layout_gravity="center"
+             android:background="@color/gray"
+             />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/me_my_book_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="14sp"
+                android:text="@string/my_book_list"
+                android:textColor="@color/black"
+                android:drawableLeft="@mipmap/my_book_list"
+                />
+
+        </LinearLayout>
+    </LinearLayout>
+    &lt;!&ndash;账户&ndash;&gt;
+    <LinearLayout
+        android:id="@+id/me_account"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="10dp"
+        android:gravity="center_vertical"
+        android:background="@android:color/white">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="@string/my_account"
+            android:layout_marginLeft="16dp"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:drawableLeft="@mipmap/my_account"
+            android:drawablePadding="14dp"/>
+        <TextView
+            android:id="@+id/me_account_balance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="@color/black"
+            android:layout_marginRight="15dp"
+            android:text="@string/price"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="16dp"
+        android:background="@color/gray" />
+    &lt;!&ndash;消息&ndash;&gt;
+    <LinearLayout
+        android:id="@+id/me_message"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:background="@android:color/white">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="@string/my_message"
+            android:layout_marginLeft="16dp"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:drawableLeft="@mipmap/message"
+            android:drawablePadding="14dp"/>
+        <TextView
+            android:id="@+id/me_message_count"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:gravity="center"
+            android:layout_marginRight="10dp"
+            android:text="3"
+            android:textSize="14sp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/message_bg"/>
+        <ImageView
+            android:id="@+id/me_message_arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:src="@mipmap/arrow"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="16dp"
+        android:background="@color/gray" />
+
+    <LinearLayout
+        android:id="@+id/me_my_book_coupons"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:background="@android:color/white">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="@string/my_book_coupons"
+            android:layout_marginLeft="16dp"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:drawableLeft="@mipmap/book_coupons"
+            android:drawablePadding="14dp"/>
+
+        <ImageView
+            android:id="@+id/me_book_coupons_arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:src="@mipmap/arrow"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="16dp"
+        android:background="@color/gray" />
+    &lt;!&ndash;阅读提醒&ndash;&gt;
+    <LinearLayout
+        android:id="@+id/me_read_remind"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:background="@android:color/white">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="@string/read_remind"
+            android:layout_marginLeft="16dp"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:drawableLeft="@mipmap/read_remind"
+            android:drawablePadding="14dp"/>
+        <ImageView
+            android:id="@+id/me_read_remind_arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:src="@mipmap/arrow"/>
+    </LinearLayout>
+
+    &lt;!&ndash;账户&ndash;&gt;
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="10dp"
+        >
+    </LinearLayout>
+-->
+
+</RelativeLayout>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@android:color/white">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/educational"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:id="@+id/background_back"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="centerInside"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:src="@mipmap/return_arrow" />
+
+            <TextView
+                android:id="@+id/background_save"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="15dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text="@string/save"
+                android:textSize="17sp"
+                android:textColor="@color/blue" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@android:color/white"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/school"
+                android:textSize="14sp"
+                android:textColor="@color/gray"
+                />
+            <EditText
+                android:id="@+id/background_school_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:gravity="right"
+                android:background="@null"
+                android:cursorVisible="false"
+                android:textCursorDrawable="@drawable/shape_edittext_cursor"
+                android:textSize="14sp"
+                android:hint="请填写大学名称"/>
+        </RelativeLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/gray"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@android:color/white"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/education"
+                android:textSize="14sp"
+                android:textColor="@color/gray"
+                />
+            <TextView
+                android:id="@+id/background_education"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:textSize="14sp"
+                android:textColor="@android:color/black"
+                android:drawableRight="@mipmap/arrow"
+                android:drawablePadding="10dp"
+                />
+        </RelativeLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/gray"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@android:color/white"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/major"
+                android:textSize="14sp"
+                android:textColor="@color/gray" />
+
+            <EditText
+                android:id="@+id/background_major"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:gravity="right"
+                android:layout_centerVertical="true"
+                android:textCursorDrawable="@drawable/shape_edittext_cursor"
+                android:cursorVisible="false"
+                android:textSize="14sp"
+                android:hint="请填写专业名称"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                />
+        </RelativeLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/gray"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@android:color/white"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/time"
+                android:textSize="14sp"
+                android:textColor="@color/gray" />
+
+            <TextView
+                android:id="@+id/background_end_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:textSize="14sp"
+                android:textColor="@android:color/black"
+                android:drawableRight="@mipmap/arrow"
+                android:drawablePadding="10dp"/>
+            <TextView
+                android:id="@+id/background_starttime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@id/background_end_time"
+                android:gravity="right"
+                android:layout_centerVertical="true"
+                android:textSize="14sp"
+                android:textColor="@android:color/black"
+                android:drawablePadding="10dp"/>
+        </RelativeLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/gray"/>
+
+        <TextView
+            android:id="@+id/experience_delete"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:paddingBottom="12dp"
+            android:paddingTop="12dp"
+            android:paddingLeft="15dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/delete_background"
+            android:textColor="@color/gray" />
+
+        </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+   >
+
+    <!-- 整体透明画布 -->
+    <SurfaceView
+        android:id="@+id/preview_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/note_bg"
+        android:layout_gravity="top"
+        android:layout_centerHorizontal="true">
+        <TextView
+            android:id="@+id/capture_textview_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="关闭"
+            android:textColor="@android:color/white"
+            android:textSize="16sp"
+            android:padding="10dp"/>
+       <!-- <TextView
+            android:id="@+id/capture_textview_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="搜索"
+            android:textColor="@android:color/white"
+            android:layout_alignParentRight="true"
+            android:textSize="16sp"
+            android:padding="10dp"
+            />-->
+    </RelativeLayout>
+
+    <!-- 扫描取景框 -->
+    <com.hxjf.dubei.zxing.view.ViewfinderView
+        android:id="@+id/viewfinder_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+    
+    <!--<RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:visibility="gone"
+        android:layout_centerHorizontal="true">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginBottom="40dp"
+            android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/capture_imageview_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="60dp"
+            android:background="@mipmap/capture_back"/>
+        <ImageButton
+            android:id="@+id/capture_imageview_select_pic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/select_pic"/>
+        </LinearLayout>
+
+    </RelativeLayout>-->
+
+</merge>

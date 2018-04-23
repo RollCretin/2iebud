@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c8e4d5eb5dea8a0f0bbd504307632ec5fe676ff2\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c8e4d5eb5dea8a0f0bbd504307632ec5fe676ff2\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_at_msg_item_animation.xml",
+        "source": "E:\\DuBei2.0\\oneSDK\\build\\intermediates\\bundles\\default\\res\\anim\\aliwx_at_msg_item_animation.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c8e4d5eb5dea8a0f0bbd504307632ec5fe676ff2\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\412c6967ef2d4ecf0241a165d9661dadc0b973f5\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c8e4d5eb5dea8a0f0bbd504307632ec5fe676ff2\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\412c6967ef2d4ecf0241a165d9661dadc0b973f5\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tranlate_dialog_in.xml",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\anim\\tranlate_dialog_in.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_new_msg_notify_slide_right_out.xml",
+        "source": "E:\\DuBei2.0\\oneSDK\\build\\intermediates\\bundles\\default\\res\\anim\\aliwx_new_msg_notify_slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tranlate_dialog_out.xml",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\anim\\tranlate_dialog_out.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\act_switch_translate_bottom2screen.xml",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\anim\\act_switch_translate_bottom2screen.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_menu_out.xml",
+        "source": "E:\\DuBei2.0\\oneSDK\\build\\intermediates\\bundles\\default\\res\\anim\\aliwx_menu_out.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\412c6967ef2d4ecf0241a165d9661dadc0b973f5\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\412c6967ef2d4ecf0241a165d9661dadc0b973f5\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_left_out.xml",
+        "source": "E:\\DuBei2.0\\oneSDK\\build\\intermediates\\bundles\\default\\res\\anim\\aliwx_slide_left_out.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c8e4d5eb5dea8a0f0bbd504307632ec5fe676ff2\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_left_in.xml",
+        "source": "E:\\DuBei2.0\\oneSDK\\build\\intermediates\\bundles\\default\\res\\anim\\aliwx_slide_left_in.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c8e4d5eb5dea8a0f0bbd504307632ec5fe676ff2\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_new_msg_notify_slide_right_in.xml",
+        "source": "E:\\DuBei2.0\\oneSDK\\build\\intermediates\\bundles\\default\\res\\anim\\aliwx_new_msg_notify_slide_right_in.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_alpha_fade_in.xml",
+        "source": "E:\\DuBei2.0\\oneSDK\\build\\intermediates\\bundles\\default\\res\\anim\\aliwx_alpha_fade_in.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_menu_in.xml",
+        "source": "E:\\DuBei2.0\\oneSDK\\build\\intermediates\\bundles\\default\\res\\anim\\aliwx_menu_in.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\780226a0d774787a37391df106ca36554ee54990\\output\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_right_out.xml",
+        "source": "E:\\DuBei2.0\\oneSDK\\build\\intermediates\\bundles\\default\\res\\anim\\aliwx_slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_bottom_in.xml",
+        "source": "E:\\DuBei2.0\\oneSDK\\build\\intermediates\\bundles\\default\\res\\anim\\aliwx_slide_bottom_in.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c8e4d5eb5dea8a0f0bbd504307632ec5fe676ff2\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_right_in.xml",
+        "source": "E:\\DuBei2.0\\oneSDK\\build\\intermediates\\bundles\\default\\res\\anim\\aliwx_slide_right_in.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\412c6967ef2d4ecf0241a165d9661dadc0b973f5\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_at_msg_list_layout_anim.xml",
+        "source": "E:\\DuBei2.0\\oneSDK\\build\\intermediates\\bundles\\default\\res\\anim\\aliwx_at_msg_list_layout_anim.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_bottom_out.xml",
+        "source": "E:\\DuBei2.0\\oneSDK\\build\\intermediates\\bundles\\default\\res\\anim\\aliwx_slide_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c8e4d5eb5dea8a0f0bbd504307632ec5fe676ff2\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_alpha_fade_out.xml",
+        "source": "E:\\DuBei2.0\\oneSDK\\build\\intermediates\\bundles\\default\\res\\anim\\aliwx_alpha_fade_out.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\780226a0d774787a37391df106ca36554ee54990\\output\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c8e4d5eb5dea8a0f0bbd504307632ec5fe676ff2\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c8e4d5eb5dea8a0f0bbd504307632ec5fe676ff2\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\780226a0d774787a37391df106ca36554ee54990\\output\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\780226a0d774787a37391df106ca36554ee54990\\output\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\412c6967ef2d4ecf0241a165d9661dadc0b973f5\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    }
+]

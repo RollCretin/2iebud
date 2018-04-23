@@ -1,0 +1,670 @@
+[
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\white_return_arrow.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\white_return_arrow.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\money_pay_count_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\money_pay_count_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\dubei.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\dubei.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_chuangye.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_chuangye.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\blue_book_read_done.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\blue_book_read_done.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\free_changdu.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\free_changdu.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\white_arrow.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\white_arrow.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\capture_back.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\capture_back.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\dubi_gray.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\dubi_gray.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\person_detail_bg.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\person_detail_bg.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\changdu_detail_3.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\changdu_detail_3.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\star_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\star_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\uoko_guide_background_1.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\uoko_guide_background_1.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\plus.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\plus.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\uoko_guide_foreground_1.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\uoko_guide_foreground_1.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\checkbox_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\checkbox_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\font_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\font_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\setting.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\setting.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\share_wx.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\share_wx.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\share_sign.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\share_sign.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\home_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\home_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\share.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\share.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\zhezhao.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\zhezhao.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\note_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\note_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\money_pay_count_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\money_pay_count_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\font_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\font_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\catalog.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\catalog.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\empty_book.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\empty_book.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_zhuanji.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_zhuanji.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\challege_failed.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\challege_failed.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\me_bg.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\me_bg.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\border_zhuang.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\border_zhuang.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\changdu_bg.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\changdu_bg.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\activity_time.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\activity_time.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\weixin.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\weixin.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\my_borrow_logo.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\my_borrow_logo.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\message.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\message.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\me_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\me_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\alarm.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\alarm.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\appeal_bg.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\appeal_bg.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\cha.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\cha.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\splash_bg.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\splash_bg.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\portrait2.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\portrait2.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\note_gray_circle.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\note_gray_circle.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\uoko_guide_background_3.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\uoko_guide_background_3.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\sel_check.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\sel_check.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_lishi.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_lishi.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_page_indicator_focused.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_page_indicator_focused.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_hulianwang.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_hulianwang.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\like_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\like_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\uoko_guide_foreground_3.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\uoko_guide_foreground_3.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\now_read.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\now_read.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_zhixue.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_zhixue.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\discovery_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\discovery_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\challege_give_dubi_bg.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\challege_give_dubi_bg.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\location.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\location.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\book_coupon_red.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\book_coupon_red.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\uoko_guide_background_2.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\uoko_guide_background_2.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\light_small.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\light_small.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\my_book_list.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\my_book_list.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\dianliang_logo.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\dianliang_logo.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\reader_share.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\reader_share.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\magnifier.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\magnifier.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\progress_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\progress_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\scan_light.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\scan_light.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\white_share.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\white_share.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\challege_success_circle.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\challege_success_circle.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\collection.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\collection.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\changdu_detail_2.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\changdu_detail_2.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\booklist_blue_plus.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\booklist_blue_plus.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_jinrong.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_jinrong.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_tourongzi.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_tourongzi.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\home_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\home_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\blue_back.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\blue_back.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\discovery_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\discovery_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\catalog_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\catalog_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\serach.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\serach.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_checkbox_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_checkbox_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\gray_bg.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\gray_bg.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\return_arrow.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\return_arrow.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\light_big.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\light_big.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\question.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\question.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\splash_text.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\splash_text.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\bookmark_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\bookmark_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\activity_location.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\activity_location.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\zone_tingche.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\zone_tingche.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\account_bg.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\account_bg.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\circle_gou.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\circle_gou.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\dubi.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\dubi.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\light_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\light_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\checkbox_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\achievement.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\achievement.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\bookshelf_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\bookshelf_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_page_indicator.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_page_indicator.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\maohao.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\maohao.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\arrow.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\arrow.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\download_qrcode.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\download_qrcode.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\flag.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\flag.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\white_book_read_done.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\white_book_read_done.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_jinyin.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_jinyin.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\zone_touying.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\zone_touying.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\question_blue.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\question_blue.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\all_no_wifi_ic.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\all_no_wifi_ic.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\collect_book_logo.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\collect_book_logo.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\catalog_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\catalog_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\user_default_portrait.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\user_default_portrait.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\dubei_dafult_pratroit.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\dubei_dafult_pratroit.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\changdu_detail_logo.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\changdu_detail_logo.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\alipay_logo.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\alipay_logo.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\select_pic.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\select_pic.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\my_attention.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\my_attention.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\progress_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\progress_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\pen.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\pen.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\zone_baoxiang.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\zone_baoxiang.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\light_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\light_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\zone_wifi.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\zone_wifi.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\navigation.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\navigation.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_xiaoshuo.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_xiaoshuo.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_checkbox_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_checkbox_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\note_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\note_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\achievement_bottom_bg.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\achievement_bottom_bg.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\open_hours.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\open_hours.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\reader_bookinfo.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\reader_bookinfo.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\changdu_logo.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\changdu_logo.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\my_account.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\my_account.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\dessert.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\dessert.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\private_letter.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\private_letter.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\border_jie.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\border_jie.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\bookmark_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\bookmark_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_lizhi.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_lizhi.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\gray_circle.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\gray_circle.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\bookshelf_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\bookshelf_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\author.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\author.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\achievement_bottom_logo.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\achievement_bottom_logo.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_yinxiao.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_yinxiao.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\star_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\star_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\border_fei.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\border_fei.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\note_blue_stroke_circle.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\note_blue_stroke_circle.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_keji.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_keji.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_zhichang.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_zhichang.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\challege_bg.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\challege_bg.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\text_share_bg.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\text_share_bg.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\sel_nor.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\sel_nor.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\register_bg.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\register_bg.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\changdu_detail_1.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\changdu_detail_1.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\challege_question.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\challege_question.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\me_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\me_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\star_collect.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\star_collect.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\challege_failed_circle.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\challege_failed_circle.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\uncollection.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\uncollection.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\zone_open.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\zone_open.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\uoko_guide_foreground_2.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\uoko_guide_foreground_2.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\challenge_normal.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\challenge_normal.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\gou_green.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\gou_green.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\phone.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\phone.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_xinlixue.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_xinlixue.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\zone_kongtiao.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\zone_kongtiao.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\challenge_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\challenge_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\blue_plus.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\blue_plus.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\share_penyouquan.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\share_penyouquan.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\like_selected.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\like_selected.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\collect_book.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\collect_book.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\coupon_bg.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\coupon_bg.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\challege_success.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\challege_success.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\plus_attention.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\plus_attention.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\book_pocket_logo.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\book_pocket_logo.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\label_shangye.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\label_shangye.png"
+    }
+]

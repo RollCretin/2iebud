@@ -1,0 +1,39 @@
+// Generated code from Butter Knife. Do not modify!
+package com.hxjf.dubei.ui.fragment;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.view.View;
+import android.widget.ProgressBar;
+import android.widget.TextView;
+import butterknife.Unbinder;
+import butterknife.internal.Utils;
+import com.hxjf.dubei.R;
+import com.itheima.pulltorefreshlib.PullToRefreshListView;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class Serach_BookFragment_ViewBinding implements Unbinder {
+  private Serach_BookFragment target;
+
+  @UiThread
+  public Serach_BookFragment_ViewBinding(Serach_BookFragment target, View source) {
+    this.target = target;
+
+    target.searchEmptyBook = Utils.findRequiredViewAsType(source, R.id.search_empty_book, "field 'searchEmptyBook'", TextView.class);
+    target.searchBook = Utils.findRequiredViewAsType(source, R.id.search_book, "field 'searchBook'", PullToRefreshListView.class);
+    target.searchBookProgress = Utils.findRequiredViewAsType(source, R.id.search_book_progress, "field 'searchBookProgress'", ProgressBar.class);
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    Serach_BookFragment target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.searchEmptyBook = null;
+    target.searchBook = null;
+    target.searchBookProgress = null;
+  }
+}

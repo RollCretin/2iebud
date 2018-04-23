@@ -1,0 +1,72 @@
+// Generated code from Butter Knife. Do not modify!
+package com.hxjf.dubei.ui.activity;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.view.View;
+import android.widget.Button;
+import android.widget.CheckBox;
+import android.widget.TextView;
+import butterknife.Unbinder;
+import butterknife.internal.Utils;
+import com.hxjf.dubei.R;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class SelectLabelActivity_ViewBinding implements Unbinder {
+  private SelectLabelActivity target;
+
+  @UiThread
+  public SelectLabelActivity_ViewBinding(SelectLabelActivity target) {
+    this(target, target.getWindow().getDecorView());
+  }
+
+  @UiThread
+  public SelectLabelActivity_ViewBinding(SelectLabelActivity target, View source) {
+    this.target = target;
+
+    target.labelAmount = Utils.findRequiredViewAsType(source, R.id.label_amount, "field 'labelAmount'", TextView.class);
+    target.cbLabelHulianwang = Utils.findRequiredViewAsType(source, R.id.cb_label_hulianwang, "field 'cbLabelHulianwang'", CheckBox.class);
+    target.cbLabelJinguan = Utils.findRequiredViewAsType(source, R.id.cb_label_jinguan, "field 'cbLabelJinguan'", CheckBox.class);
+    target.cbLabelTourongzi = Utils.findRequiredViewAsType(source, R.id.cb_label_tourongzi, "field 'cbLabelTourongzi'", CheckBox.class);
+    target.cbLabelShangye = Utils.findRequiredViewAsType(source, R.id.cb_label_shangye, "field 'cbLabelShangye'", CheckBox.class);
+    target.cbLabelYinxiao = Utils.findRequiredViewAsType(source, R.id.cb_label_yinxiao, "field 'cbLabelYinxiao'", CheckBox.class);
+    target.cbLabelZhichang = Utils.findRequiredViewAsType(source, R.id.cb_label_zhichang, "field 'cbLabelZhichang'", CheckBox.class);
+    target.cbLabelJinrong = Utils.findRequiredViewAsType(source, R.id.cb_label_jinrong, "field 'cbLabelJinrong'", CheckBox.class);
+    target.cbLabelKeji = Utils.findRequiredViewAsType(source, R.id.cb_label_keji, "field 'cbLabelKeji'", CheckBox.class);
+    target.cbLabelXinlixue = Utils.findRequiredViewAsType(source, R.id.cb_label_xinlixue, "field 'cbLabelXinlixue'", CheckBox.class);
+    target.cbLabelChuangye = Utils.findRequiredViewAsType(source, R.id.cb_label_chuangye, "field 'cbLabelChuangye'", CheckBox.class);
+    target.cbLabelLishi = Utils.findRequiredViewAsType(source, R.id.cb_label_lishi, "field 'cbLabelLishi'", CheckBox.class);
+    target.cbLabelLizhi = Utils.findRequiredViewAsType(source, R.id.cb_label_lizhi, "field 'cbLabelLizhi'", CheckBox.class);
+    target.cbLabelZhexue = Utils.findRequiredViewAsType(source, R.id.cb_label_zhexue, "field 'cbLabelZhexue'", CheckBox.class);
+    target.cbLabelZhuanji = Utils.findRequiredViewAsType(source, R.id.cb_label_zhuanji, "field 'cbLabelZhuanji'", CheckBox.class);
+    target.cbLabelXiaoshuo = Utils.findRequiredViewAsType(source, R.id.cb_label_xiaoshuo, "field 'cbLabelXiaoshuo'", CheckBox.class);
+    target.labelBtnSelectedDone = Utils.findRequiredViewAsType(source, R.id.label_btn_selected_done, "field 'labelBtnSelectedDone'", Button.class);
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    SelectLabelActivity target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.labelAmount = null;
+    target.cbLabelHulianwang = null;
+    target.cbLabelJinguan = null;
+    target.cbLabelTourongzi = null;
+    target.cbLabelShangye = null;
+    target.cbLabelYinxiao = null;
+    target.cbLabelZhichang = null;
+    target.cbLabelJinrong = null;
+    target.cbLabelKeji = null;
+    target.cbLabelXinlixue = null;
+    target.cbLabelChuangye = null;
+    target.cbLabelLishi = null;
+    target.cbLabelLizhi = null;
+    target.cbLabelZhexue = null;
+    target.cbLabelZhuanji = null;
+    target.cbLabelXiaoshuo = null;
+    target.labelBtnSelectedDone = null;
+  }
+}

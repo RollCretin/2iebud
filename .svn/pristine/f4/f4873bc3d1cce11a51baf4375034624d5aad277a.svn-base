@@ -1,0 +1,38 @@
+// Generated code from Butter Knife. Do not modify!
+package com.hxjf.dubei.ui.activity;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.view.View;
+import butterknife.Unbinder;
+import butterknife.internal.Utils;
+import com.ecloud.pulltozoomview.PullToZoomScrollViewEx;
+import com.hxjf.dubei.R;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class PersonDetailActivity_ViewBinding implements Unbinder {
+  private PersonDetailActivity target;
+
+  @UiThread
+  public PersonDetailActivity_ViewBinding(PersonDetailActivity target) {
+    this(target, target.getWindow().getDecorView());
+  }
+
+  @UiThread
+  public PersonDetailActivity_ViewBinding(PersonDetailActivity target, View source) {
+    this.target = target;
+
+    target.personDetailScrollView = Utils.findRequiredViewAsType(source, R.id.person_detail_scrollView, "field 'personDetailScrollView'", PullToZoomScrollViewEx.class);
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    PersonDetailActivity target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.personDetailScrollView = null;
+  }
+}

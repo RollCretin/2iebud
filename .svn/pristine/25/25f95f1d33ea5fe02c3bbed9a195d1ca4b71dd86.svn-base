@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top|center_horizontal"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="160dp"
+        android:layout_height="90dp">
+    <ImageView
+        android:id="@+id/discovery_note_factory_image"
+        android:layout_width="160dp"
+        android:layout_height="90dp"
+        android:scaleType="fitXY"/>
+        <ImageView
+            android:layout_width="160dp"
+            android:layout_height="90dp"
+            android:background="@drawable/book_border"/>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/discovery_note_factory_title"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="9dp"
+        android:ellipsize="end"
+        android:gravity="left"
+        android:maxLines="2"
+        android:text="@string/note_name"
+        android:textColor="@color/black"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/discovery_note_factory_author"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:layout_marginTop="7dp"
+        android:text="@string/author1"
+        android:textSize="12sp"
+        android:textColor="@color/gray"/>
+
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BorderTextView">
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="cornerRadius" format="dimension"/>
+        <attr name="strokeColor" format="color"/>
+        <attr name="followTextColor" format="boolean"/>
+    </declare-styleable>
+    <declare-styleable name="NineGridImageView">
+        <attr format="dimension" name="imgGap"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,165 @@
+// Generated code from Butter Knife. Do not modify!
+package com.hxjf.dubei.ui.activity;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.view.View;
+import android.widget.Button;
+import android.widget.CheckBox;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+import butterknife.Unbinder;
+import butterknife.internal.DebouncingOnClickListener;
+import butterknife.internal.Utils;
+import com.hxjf.dubei.R;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class ChallengeDetailActivity_ViewBinding implements Unbinder {
+  private ChallengeDetailActivity target;
+
+  private View view2131755310;
+
+  private View view2131755312;
+
+  private View view2131755313;
+
+  private View view2131755324;
+
+  private View view2131755326;
+
+  private View view2131755328;
+
+  private View view2131755317;
+
+  @UiThread
+  public ChallengeDetailActivity_ViewBinding(ChallengeDetailActivity target) {
+    this(target, target.getWindow().getDecorView());
+  }
+
+  @UiThread
+  public ChallengeDetailActivity_ViewBinding(final ChallengeDetailActivity target, View source) {
+    this.target = target;
+
+    View view;
+    view = Utils.findRequiredView(source, R.id.detail_iv_return, "field 'detailIvReturn' and method 'onClick'");
+    target.detailIvReturn = Utils.castView(view, R.id.detail_iv_return, "field 'detailIvReturn'", ImageView.class);
+    view2131755310 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.detailTvState = Utils.findRequiredViewAsType(source, R.id.detail_tv_state, "field 'detailTvState'", TextView.class);
+    view = Utils.findRequiredView(source, R.id.detail_iv_share, "field 'detailIvShare' and method 'onClick'");
+    target.detailIvShare = Utils.castView(view, R.id.detail_iv_share, "field 'detailIvShare'", ImageView.class);
+    view2131755312 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.detail_iv_book, "field 'detailIvBook' and method 'onClick'");
+    target.detailIvBook = Utils.castView(view, R.id.detail_iv_book, "field 'detailIvBook'", ImageView.class);
+    view2131755313 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.detailTvBookName = Utils.findRequiredViewAsType(source, R.id.detail_tv_book_name, "field 'detailTvBookName'", TextView.class);
+    target.detailTvAuthor = Utils.findRequiredViewAsType(source, R.id.detail_tv_author, "field 'detailTvAuthor'", TextView.class);
+    target.detailTvChallengeMoney = Utils.findRequiredViewAsType(source, R.id.detail_tv_challenge_money, "field 'detailTvChallengeMoney'", TextView.class);
+    target.detailTvStartTime = Utils.findRequiredViewAsType(source, R.id.detail_tv_start_time, "field 'detailTvStartTime'", TextView.class);
+    target.detailTvEndTime = Utils.findRequiredViewAsType(source, R.id.detail_tv_end_time, "field 'detailTvEndTime'", TextView.class);
+    target.detailMatchPeopleCount = Utils.findRequiredViewAsType(source, R.id.detail_match_people_count, "field 'detailMatchPeopleCount'", TextView.class);
+    target.detailMatchCheckbox = Utils.findRequiredViewAsType(source, R.id.detail_match_checkbox, "field 'detailMatchCheckbox'", CheckBox.class);
+    view = Utils.findRequiredView(source, R.id.detail_match_rule, "field 'detailMatchRule' and method 'onClick'");
+    target.detailMatchRule = Utils.castView(view, R.id.detail_match_rule, "field 'detailMatchRule'", TextView.class);
+    view2131755324 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.detail_match_challege_state, "field 'detailMatchChallegeState' and method 'onClick'");
+    target.detailMatchChallegeState = Utils.castView(view, R.id.detail_match_challege_state, "field 'detailMatchChallegeState'", Button.class);
+    view2131755326 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.detail_match_accept_challege, "field 'detailMatchAcceptChallege' and method 'onClick'");
+    target.detailMatchAcceptChallege = Utils.castView(view, R.id.detail_match_accept_challege, "field 'detailMatchAcceptChallege'", Button.class);
+    view2131755328 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.detailMatchLlChallege = Utils.findRequiredViewAsType(source, R.id.detail_match_ll_challege, "field 'detailMatchLlChallege'", LinearLayout.class);
+    target.detailMatchPeopleContainer = Utils.findRequiredViewAsType(source, R.id.detail_match_people_container, "field 'detailMatchPeopleContainer'", LinearLayout.class);
+    view = Utils.findRequiredView(source, R.id.detail_tv_question, "field 'detailTvQuestion' and method 'onClick'");
+    target.detailTvQuestion = Utils.castView(view, R.id.detail_tv_question, "field 'detailTvQuestion'", TextView.class);
+    view2131755317 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.llDetailMatchChallegeState = Utils.findRequiredViewAsType(source, R.id.ll_detail_match_challege_state, "field 'llDetailMatchChallegeState'", LinearLayout.class);
+    target.detailMatchLlRule = Utils.findRequiredViewAsType(source, R.id.detail_match_ll_rule, "field 'detailMatchLlRule'", LinearLayout.class);
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    ChallengeDetailActivity target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.detailIvReturn = null;
+    target.detailTvState = null;
+    target.detailIvShare = null;
+    target.detailIvBook = null;
+    target.detailTvBookName = null;
+    target.detailTvAuthor = null;
+    target.detailTvChallengeMoney = null;
+    target.detailTvStartTime = null;
+    target.detailTvEndTime = null;
+    target.detailMatchPeopleCount = null;
+    target.detailMatchCheckbox = null;
+    target.detailMatchRule = null;
+    target.detailMatchChallegeState = null;
+    target.detailMatchAcceptChallege = null;
+    target.detailMatchLlChallege = null;
+    target.detailMatchPeopleContainer = null;
+    target.detailTvQuestion = null;
+    target.llDetailMatchChallegeState = null;
+    target.detailMatchLlRule = null;
+
+    view2131755310.setOnClickListener(null);
+    view2131755310 = null;
+    view2131755312.setOnClickListener(null);
+    view2131755312 = null;
+    view2131755313.setOnClickListener(null);
+    view2131755313 = null;
+    view2131755324.setOnClickListener(null);
+    view2131755324 = null;
+    view2131755326.setOnClickListener(null);
+    view2131755326 = null;
+    view2131755328.setOnClickListener(null);
+    view2131755328 = null;
+    view2131755317.setOnClickListener(null);
+    view2131755317 = null;
+  }
+}

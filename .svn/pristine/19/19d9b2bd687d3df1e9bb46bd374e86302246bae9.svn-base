@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="160dp"
+        android:layout_height="90dp">
+
+    <ImageView
+        android:id="@+id/discovery_booklist_image"
+        android:layout_width="160dp"
+        android:layout_height="90dp"
+        android:scaleType="fitXY"
+         />
+        <ImageView
+            android:layout_width="160dp"
+            android:layout_height="90dp"
+            android:background="@drawable/book_border"/>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/discovery_booklist_name"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="9dp"
+        android:gravity="left"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:text="@string/note_name"
+        android:textSize="12sp"
+        android:textColor="@color/black"/>
+
+</LinearLayout>

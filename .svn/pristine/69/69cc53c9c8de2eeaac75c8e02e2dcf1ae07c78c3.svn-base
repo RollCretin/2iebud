@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sothree="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--上拉面板-->
+    <com.sothree.slidinguppanel.SlidingUpPanelLayout
+        android:id="@+id/sliding_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom"
+        sothree:umanoDragView="@+id/home_tv_PK"
+        sothree:umanoOverlay="true"
+        sothree:umanoPanelHeight="90dp"
+        sothree:umanoParallaxOffset="100dp"
+        sothree:umanoScrollableView="@+id/list"
+        sothree:umanoShadowHeight="4dp">
+        <!-- MAIN CONTENT -->
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="20dp"
+                    android:background="#f9f9f9">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:text="@string/home"
+                        android:textColor="@color/black"
+                        android:textSize="20sp" />
+
+                    <ImageView
+                        android:id="@+id/home_plus"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="15dp"
+                        android:scaleType="centerInside"
+                        android:src="@mipmap/plus" />
+                </RelativeLayout>
+
+
+                <com.hxjf.dubei.widget.MySwipeRefreshLayout
+                    android:id="@+id/home_refresh"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/home_recyclerview"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#f9f9f9" />
+
+                </com.hxjf.dubei.widget.MySwipeRefreshLayout>
+            </LinearLayout>
+            <TextView
+                android:id="@+id/home_nonet"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:layout_centerInParent="true"
+                android:text="网络状态异常，请点击重试"
+                android:textSize="16dp"
+                android:textColor="@color/gray"
+                android:drawableTop="@mipmap/all_no_wifi_ic"
+                android:drawablePadding="20dp"
+                />
+        </RelativeLayout>
+        <!-- SLIDING LAYOUT -->
+        <LinearLayout
+            android:id="@+id/dragView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:clickable="true"
+            android:focusable="false"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/home_ll_PK"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/home_tv_PK"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="15dp"
+                    android:text="@string/read_challenge"
+                    android:textColor="#788695"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="15dp"
+                    android:background="@color/gray" />
+
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/home_lv_PKlist"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"></ListView>
+        </LinearLayout>
+    </com.sothree.slidinguppanel.SlidingUpPanelLayout>
+</LinearLayout>

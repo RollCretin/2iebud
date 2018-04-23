@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@android:color/white">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/my_book_coupons"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:id="@+id/textView4" />
+
+        <ImageView
+            android:id="@+id/my_book_coupon_back"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@mipmap/return_arrow"
+            android:scaleType="centerInside"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true" />
+
+        <ImageView
+            android:id="@+id/my_book_coupon_question"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@mipmap/question"
+            android:scaleType="centerInside"
+            android:layout_alignTop="@+id/textView4"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray"/>
+    <ListView
+        android:id="@+id/my_book_coupon_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:scrollbars="none"
+        android:divider="@null">
+    </ListView>
+
+</LinearLayout>

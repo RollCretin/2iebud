@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:paddingBottom="20dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:paddingTop="20dp">
+
+    <ImageView
+        android:id="@+id/item_collect_book_image"
+        android:layout_width="80dp"
+        android:layout_height="116dp"
+        android:scaleType="fitXY"
+        android:src="@color/sec_gray" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/item_collect_book_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/book_name1"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/item_collect_book_author"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/author1"
+            android:textColor="@color/gray"
+            android:textSize="12sp" />
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:orientation="horizontal">
+
+            <RatingBar
+                android:id="@+id/item_collect_book_ratingbar"
+                style="@style/RadingStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:isIndicator="true"
+                android:maxHeight="10dp"
+                android:minHeight="10dp"
+                android:rating="4.1"
+                android:stepSize="0.1" />
+
+            <TextView
+                android:id="@+id/item_collect_book_score"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="8.1分/豆瓣"
+                android:textColor="@color/gray"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

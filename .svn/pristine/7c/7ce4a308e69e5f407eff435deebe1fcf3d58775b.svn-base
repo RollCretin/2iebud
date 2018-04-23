@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="20dp"
+    android:paddingBottom="15dp"
+    android:gravity="center"
+    android:background="@drawable/dialog_corner_bg"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:gravity="center"
+        android:text="读币用途"
+        android:textSize="18dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:layout_marginTop="20dp"
+        android:text="支付读书挑战押金；购买正版电子书 ；购买原创浓缩书；购买线上精品课；兑换各类优惠券。"
+        android:textSize="16sp"
+        android:textColor="@color/gray"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginTop="13dp"
+        android:layout_marginBottom="13dp"
+        android:background="@color/gray"/>
+    <TextView
+        android:id="@+id/dialog_dubi_use"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:gravity="center"
+        android:text="知道了"
+        android:textSize="18dp"
+        android:textColor="@color/blue" />
+
+</LinearLayout>

@@ -1,0 +1,107 @@
+<resources>
+
+    <style name="FBReader.Activity" parent="android:Theme"></style>
+
+    <style name="FBReader.Activity.NoActionBar" parent="android:Theme"></style>
+
+    <style name="FBReader.Dialog" parent="android:Theme.Dialog"></style>
+
+    <color name="transparent">#00000000</color>
+
+    <style name="FBReader.Transparent" parent="android:Theme.Translucent.NoTitleBar">
+        <item name="android:windowBackground">@color/transparent</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/blue</item>
+
+    </style>
+
+    <style name="ImageTranslucentTheme" parent="AppTheme">
+        <!--在Android 4.4之前的版本上运行，直接跟随系统主题-->
+    </style>
+
+    <!--底部框样式-->
+    <style name="TabStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/tab_text_selector</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:drawablePadding">2dp</item>
+        <item name="android:button">@null</item>
+    </style>
+
+    <!--进度条样式-->
+    <style name="StyleProgressBarMini" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">5dp</item>
+        <item name="android:minHeight">2dp</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">
+            @android:drawable/progress_indeterminate_horizontal
+        </item>
+    </style>
+
+    <!--checkbox样式-->
+    <style name="mycheckbox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/my_checkbox</item>
+    </style>
+
+    <!--自定义dialog-->
+    <style name="myDialogTheme" parent="android:Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item><!--除去背景色-->
+    </style>
+
+    <style name="transDialog" parent="myDialogTheme">
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <!--底部对话框动画-->
+    <style name="BottomDialog.Animation" parent="Animation.AppCompat.Dialog">
+        <item name="android:windowEnterAnimation">@anim/tranlate_dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/tranlate_dialog_out</item>
+    </style>
+
+    <style name="SwitchButtonStyleMD">
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+    </style>
+
+    <style name="RadingStyle" parent="@android:style/Widget.RatingBar">
+        <!-- 定义星星图片 -->
+        <item name="android:progressDrawable">@drawable/layer_live_rating_bar</item>
+        <!-- 根据自定义星星图片的大小,设置相应的值,否则可能显示不全 -->
+        <item name="android:numColumns">5</item>
+    </style>
+    <style name="selectbookTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="activity_switch_translate_bottom_top" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowAnimationStyle">@style/translate_bottom_top</item>
+    </style>
+    <style name="translate_bottom_top" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/act_switch_translate_bottom2screen</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <!--自定义下滑线颜色-->
+    <style name="MyEditText" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/gray</item>
+        <item name="colorControlActivated">@color/gray</item>
+    </style>
+    <style name="CustomCheckBoxTheme" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/checkbox_style</item>
+    </style>
+
+
+</resources>

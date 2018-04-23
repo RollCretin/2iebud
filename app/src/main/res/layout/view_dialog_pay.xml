@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="设置挑战金额"
+        android:paddingTop="10dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="40dp"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/dialog_pay_20"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="12dp"
+                android:drawableLeft="@mipmap/dubi"
+                android:layout_weight="1"
+                android:background="@drawable/selector_money_pay"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="15dp"
+                android:paddingTop="15dp"
+                android:paddingLeft="25dp"
+                android:paddingRight="25dp"
+                android:text="5"
+                android:textColor="@color/selector_money_count_text"
+                android:textSize="16sp" />
+
+            <CheckBox
+                android:id="@+id/dialog_pay_30"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="12dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_money_pay"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="15dp"
+                android:paddingTop="15dp"
+                android:text="10"
+                android:textColor="@color/selector_money_count_text"
+                android:textSize="16sp"
+                android:drawableLeft="@mipmap/dubi"
+                android:paddingLeft="25dp"
+                android:paddingRight="25dp"/>
+
+            <CheckBox
+                android:id="@+id/dialog_pay_40"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/selector_money_pay"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="15dp"
+                android:paddingTop="15dp"
+                android:text="20"
+                android:textColor="@color/selector_money_count_text"
+                android:textSize="16sp"
+                android:drawableLeft="@mipmap/dubi"
+                android:paddingLeft="25dp"
+                android:paddingRight="25dp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/dialog_pay_50"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="12dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_money_pay"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="15dp"
+                android:paddingTop="15dp"
+                android:text="40"
+                android:textColor="@color/selector_money_count_text"
+                android:textSize="16sp"
+                android:drawableLeft="@mipmap/dubi"
+                android:paddingLeft="25dp"
+                android:paddingRight="25dp"/>
+
+            <CheckBox
+                android:id="@+id/dialog_pay_60"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="12dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_money_pay"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="15dp"
+                android:paddingTop="15dp"
+                android:text="60"
+                android:textColor="@color/selector_money_count_text"
+                android:textSize="16sp"
+                android:drawableLeft="@mipmap/dubi"
+                android:paddingLeft="25dp"
+                android:paddingRight="25dp"/>
+
+            <CheckBox
+                android:id="@+id/dialog_pay_70"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/selector_money_pay"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="15dp"
+                android:paddingTop="15dp"
+                android:text="80"
+                android:textColor="@color/selector_money_count_text"
+                android:textSize="16sp"
+                android:drawableLeft="@mipmap/dubi"
+                android:paddingLeft="25dp"
+                android:paddingRight="25dp"/>
+        </LinearLayout>
+
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="1px"
+        android:background="@color/gray"/>
+
+    <Button
+        android:id="@+id/btn_dialog_pay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector_common_button"
+        android:text="确定"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:textColor="@android:color/white"
+        android:textSize="16sp" />
+
+
+</LinearLayout>

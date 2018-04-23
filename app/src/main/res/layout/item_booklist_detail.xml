@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:icon="http://schemas.android.com/tools"
+    android:id="@+id/booklist_book_detail"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="15dp">
+
+    <ImageView
+        android:id="@+id/item_booklist_image"
+        android:layout_width="70dp"
+        android:layout_height="100dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/item_booklist_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/item_booklist_author"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <CheckBox
+            android:id="@+id/item_booklist_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical"
+            android:background="@drawable/selector_add_bookshelf"
+            android:button="@null"
+            android:drawableLeft="@drawable/selector_add_bookshelf_draw"
+            android:drawablePadding="5dp"
+            android:paddingBottom="5dp"
+            android:paddingLeft="14dp"
+            android:paddingRight="14dp"
+            android:paddingTop="5dp"
+            android:text="@string/add_bookshelf"
+            android:textColor="@color/selector_add_bookshelf_text"
+            android:textSize="14sp" />
+
+
+        <TextView
+            android:id="@+id/item_booklist_startread"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/shape_login_button"
+            android:drawableLeft="@mipmap/now_read"
+            android:drawablePadding="5dp"
+            android:paddingBottom="5dp"
+            android:paddingLeft="14dp"
+            android:paddingRight="14dp"
+            android:paddingTop="5dp"
+            android:text="@string/read_right_now"
+            android:textColor="@color/blue"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+</LinearLayout>

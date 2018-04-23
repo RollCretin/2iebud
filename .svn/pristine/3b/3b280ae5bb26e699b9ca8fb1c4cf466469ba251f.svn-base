@@ -1,0 +1,180 @@
+// Generated code from Butter Knife. Do not modify!
+package com.hxjf.dubei.ui.activity;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.view.View;
+import android.widget.Button;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.RatingBar;
+import android.widget.TextView;
+import butterknife.Unbinder;
+import butterknife.internal.DebouncingOnClickListener;
+import butterknife.internal.Utils;
+import com.hxjf.dubei.R;
+import de.hdodenhof.circleimageview.CircleImageView;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class BookBorrowDetailActivity_ViewBinding implements Unbinder {
+  private BookBorrowDetailActivity target;
+
+  private View view2131755227;
+
+  private View view2131755234;
+
+  private View view2131755237;
+
+  private View view2131755241;
+
+  private View view2131755246;
+
+  private View view2131755228;
+
+  private View view2131755239;
+
+  private View view2131755245;
+
+  @UiThread
+  public BookBorrowDetailActivity_ViewBinding(BookBorrowDetailActivity target) {
+    this(target, target.getWindow().getDecorView());
+  }
+
+  @UiThread
+  public BookBorrowDetailActivity_ViewBinding(final BookBorrowDetailActivity target, View source) {
+    this.target = target;
+
+    View view;
+    view = Utils.findRequiredView(source, R.id.book_borrow_detail_back, "field 'bookBorrowDetailBack' and method 'onClick'");
+    target.bookBorrowDetailBack = Utils.castView(view, R.id.book_borrow_detail_back, "field 'bookBorrowDetailBack'", ImageView.class);
+    view2131755227 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.bookBorrowDetailImage = Utils.findRequiredViewAsType(source, R.id.book_borrow_detail_image, "field 'bookBorrowDetailImage'", ImageView.class);
+    target.bookBorrowDetailName = Utils.findRequiredViewAsType(source, R.id.book_borrow_detail_name, "field 'bookBorrowDetailName'", TextView.class);
+    target.bookBorrowDetailAuthor = Utils.findRequiredViewAsType(source, R.id.book_borrow_detail_author, "field 'bookBorrowDetailAuthor'", TextView.class);
+    target.bookBorrowDetailRatingbar = Utils.findRequiredViewAsType(source, R.id.book_borrow_detail_ratingbar, "field 'bookBorrowDetailRatingbar'", RatingBar.class);
+    target.bookBorrowDetailScore = Utils.findRequiredViewAsType(source, R.id.book_borrow_detail_score, "field 'bookBorrowDetailScore'", TextView.class);
+    view = Utils.findRequiredView(source, R.id.book_borrow_detail_pratorit, "field 'bookBorrowDetailPratorit' and method 'onClick'");
+    target.bookBorrowDetailPratorit = Utils.castView(view, R.id.book_borrow_detail_pratorit, "field 'bookBorrowDetailPratorit'", CircleImageView.class);
+    view2131755234 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.bookBorrowDetailWho = Utils.findRequiredViewAsType(source, R.id.book_borrow_detail_who, "field 'bookBorrowDetailWho'", TextView.class);
+    target.bookBorrowDetailLocation = Utils.findRequiredViewAsType(source, R.id.book_borrow_detail_location, "field 'bookBorrowDetailLocation'", TextView.class);
+    target.bookBorrowDetailAddress = Utils.findRequiredViewAsType(source, R.id.book_borrow_detail_address, "field 'bookBorrowDetailAddress'", TextView.class);
+    view = Utils.findRequiredView(source, R.id.book_borrow_detail_ll_address, "field 'bookBorrowDetailLlAddress' and method 'onClick'");
+    target.bookBorrowDetailLlAddress = Utils.castView(view, R.id.book_borrow_detail_ll_address, "field 'bookBorrowDetailLlAddress'", LinearLayout.class);
+    view2131755237 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.book_borrow_detail_collect_arrow, "field 'bookBorrowDetailCollectArrow' and method 'onClick'");
+    target.bookBorrowDetailCollectArrow = Utils.castView(view, R.id.book_borrow_detail_collect_arrow, "field 'bookBorrowDetailCollectArrow'", LinearLayout.class);
+    view2131755241 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.bookBorrowDetailCollectContainer = Utils.findRequiredViewAsType(source, R.id.book_borrow_detail_collect_container, "field 'bookBorrowDetailCollectContainer'", LinearLayout.class);
+    view = Utils.findRequiredView(source, R.id.book_borrow_detail_button, "field 'bookBorrowDetailButton' and method 'onClick'");
+    target.bookBorrowDetailButton = Utils.castView(view, R.id.book_borrow_detail_button, "field 'bookBorrowDetailButton'", Button.class);
+    view2131755246 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.bookBorrowDetailLlButton = Utils.findRequiredViewAsType(source, R.id.book_borrow_detail_ll_button, "field 'bookBorrowDetailLlButton'", LinearLayout.class);
+    target.bookBorrowDetailNumber = Utils.findRequiredViewAsType(source, R.id.book_borrow_detail_number, "field 'bookBorrowDetailNumber'", TextView.class);
+    view = Utils.findRequiredView(source, R.id.book_borrow_detail_bookpocket, "field 'bookBorrowDetailBookpocket' and method 'onClick'");
+    target.bookBorrowDetailBookpocket = Utils.castView(view, R.id.book_borrow_detail_bookpocket, "field 'bookBorrowDetailBookpocket'", ImageView.class);
+    view2131755228 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.my_collect_book_detail_rule, "field 'myCollectBookDetailRule' and method 'onClick'");
+    target.myCollectBookDetailRule = Utils.castView(view, R.id.my_collect_book_detail_rule, "field 'myCollectBookDetailRule'", TextView.class);
+    view2131755239 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.bookBorrowDetailPlain = Utils.findRequiredViewAsType(source, R.id.book_borrow_detail_plain, "field 'bookBorrowDetailPlain'", TextView.class);
+    view = Utils.findRequiredView(source, R.id.book_borrow_detail_add_bookpocket, "field 'bookBorrowDetailAddBookpocket' and method 'onClick'");
+    target.bookBorrowDetailAddBookpocket = Utils.castView(view, R.id.book_borrow_detail_add_bookpocket, "field 'bookBorrowDetailAddBookpocket'", Button.class);
+    view2131755245 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    BookBorrowDetailActivity target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.bookBorrowDetailBack = null;
+    target.bookBorrowDetailImage = null;
+    target.bookBorrowDetailName = null;
+    target.bookBorrowDetailAuthor = null;
+    target.bookBorrowDetailRatingbar = null;
+    target.bookBorrowDetailScore = null;
+    target.bookBorrowDetailPratorit = null;
+    target.bookBorrowDetailWho = null;
+    target.bookBorrowDetailLocation = null;
+    target.bookBorrowDetailAddress = null;
+    target.bookBorrowDetailLlAddress = null;
+    target.bookBorrowDetailCollectArrow = null;
+    target.bookBorrowDetailCollectContainer = null;
+    target.bookBorrowDetailButton = null;
+    target.bookBorrowDetailLlButton = null;
+    target.bookBorrowDetailNumber = null;
+    target.bookBorrowDetailBookpocket = null;
+    target.myCollectBookDetailRule = null;
+    target.bookBorrowDetailPlain = null;
+    target.bookBorrowDetailAddBookpocket = null;
+
+    view2131755227.setOnClickListener(null);
+    view2131755227 = null;
+    view2131755234.setOnClickListener(null);
+    view2131755234 = null;
+    view2131755237.setOnClickListener(null);
+    view2131755237 = null;
+    view2131755241.setOnClickListener(null);
+    view2131755241 = null;
+    view2131755246.setOnClickListener(null);
+    view2131755246 = null;
+    view2131755228.setOnClickListener(null);
+    view2131755228 = null;
+    view2131755239.setOnClickListener(null);
+    view2131755239 = null;
+    view2131755245.setOnClickListener(null);
+    view2131755245 = null;
+  }
+}

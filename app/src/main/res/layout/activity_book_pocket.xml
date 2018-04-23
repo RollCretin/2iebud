@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@android:color/white">
+
+        <ImageView
+            android:id="@+id/book_pocket_back"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:scaleType="centerInside"
+            android:src="@mipmap/return_arrow" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="书袋"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/sec_gray"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="@color/fuchsin"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="已超出最大可借书籍4本"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:text="借阅书籍"
+        android:textColor="@color/black"
+        android:textSize="24sp"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <TextView
+            android:id="@+id/book_pocket_empty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="书袋还是空的\n去找几本心愿书看看吧"
+            android:textColor="@color/black"
+            android:textSize="16sp"/>
+        <ExpandableListView
+            android:id="@+id/book_pocket_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </ExpandableListView>
+
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/sec_gray"/>
+    <LinearLayout
+        android:id="@+id/book_pocket_ll"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@android:color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp">
+
+        <Button
+            android:id="@+id/book_pocket_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selector_common_button"
+            android:gravity="center"
+            android:text="确认已送出书籍"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+
+</LinearLayout>

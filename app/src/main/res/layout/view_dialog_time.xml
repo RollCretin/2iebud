@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="horizontal">
+    <com.wx.wheelview.widget.WheelView
+        android:id="@+id/dialog_start_time"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="200dp"
+        android:layout_marginLeft="20dp"
+        android:layout_gravity="center"/>
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:text="至"
+    android:textSize="20dp"
+    android:textColor="@color/black"/>
+    <com.wx.wheelview.widget.WheelView
+        android:id="@+id/dialog_end_time"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_marginRight="20dp"
+        android:layout_gravity="center"
+        android:layout_height="200dp"/>
+
+</LinearLayout>

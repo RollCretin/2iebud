@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\afc_listview_files.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\layout\\afc_listview_files.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\afc_settings_sort_view.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\layout\\afc_settings_sort_view.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\afc_button_location.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\layout\\afc_button_location.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\afc_context_menu_tiem.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\layout\\afc_context_menu_tiem.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\afc_file_chooser.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\layout\\afc_file_chooser.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\afc_file_item.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\layout\\afc_file_item.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\afc_gridview_files.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\layout\\afc_gridview_files.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\afc_simple_text_input_view.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\layout\\afc_simple_text_input_view.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\afc_context_menu_view.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\layout\\afc_context_menu_view.xml"
+    }
+]

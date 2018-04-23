@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\dubei.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxxhdpi\\dubei.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\star_background.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxxhdpi\\star_background.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\weixin.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxxhdpi\\weixin.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\star_progress.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-xxxhdpi\\star_progress.png"
+    }
+]

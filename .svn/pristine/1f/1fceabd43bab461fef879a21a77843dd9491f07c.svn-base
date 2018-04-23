@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_toc.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_toc.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_arrow_back_grey600.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_back_grey600.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_search.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_search.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_arrow_back_white.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_back_white.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_arrow_back_pressed.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_back_pressed.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_arrow_forward_white.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_forward_white.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_refresh.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jpush_ic_richpush_actionbar_divider.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\jpush_ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_close_large_white.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_close_large_white.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_close_large_pressed.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_close_large_pressed.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_arrow_forward_pressed.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_forward_pressed.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_add.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_add.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_night.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_night.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fbreader.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\fbreader.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4a3c97cd06d2c7d847ab653b704057fb07368876\\output\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_library.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_library.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_arrow_forward_grey600.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_forward_grey600.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_bookmarks.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_bookmarks.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_day.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_day.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_networklibrary.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_networklibrary.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_filter.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_filter.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jpush_ic_richpush_actionbar_back.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\drawable-hdpi\\jpush_ic_richpush_actionbar_back.png"
+    }
+]

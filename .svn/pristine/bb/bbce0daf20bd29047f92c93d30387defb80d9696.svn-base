@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="23dp"
+    android:background="@drawable/dialog_corner_bg"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:src="@mipmap/alipay_logo"
+            />
+
+        <ImageView
+            android:id="@+id/dialog_withdraw_cancel"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginRight="22dp"
+            android:background="@mipmap/gray_circle"
+            android:gravity="center"
+            android:src="@mipmap/cha"
+            android:textSize="24sp"
+            android:scaleType="center"
+            android:layout_centerVertical="true"
+            android:textColor="@android:color/white"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="20dp"
+        android:orientation="vertical"
+        android:layout_gravity="center_vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="¥"
+                android:textSize="24dp"
+                android:textColor="@color/black"/>
+
+            <EditText
+                android:id="@+id/dialog_withdraw_money"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:digits="1234567890."
+                android:background="@null"
+                android:textCursorDrawable="@drawable/shape_edittext_cursor"
+                android:textSize="32dp"
+                android:textColor="@color/black"
+                />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/dialog_withdraw_reminder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="输出金额超出可提现金额"
+            android:textColor="@color/red"
+            android:visibility="invisible"
+            android:textSize="12sp"/>
+
+        <EditText
+            android:id="@+id/dialog_withdraw_account"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:textCursorDrawable="@drawable/shape_edittext_cursor"
+            android:theme="@style/MyEditText"
+            android:textSize="16sp"/>
+        <EditText
+            android:id="@+id/dialog_withdraw_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textCursorDrawable="@drawable/shape_edittext_cursor"
+            android:theme="@style/MyEditText"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/dialog_withdraw_confirm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/confirm_withdraw"
+            android:background="@drawable/shape_login_button"
+            android:layout_marginTop="40dp"
+            android:paddingTop="11dp"
+            android:paddingBottom="15dp"
+            android:paddingLeft="110dp"
+            android:paddingRight="110dp"
+            android:layout_gravity="center"
+            android:textSize="14sp"
+            android:textColor="@color/blue"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:text="支持7个工作日内到账"
+            android:textSize="10dp"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>
