@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\DuBei2.0\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

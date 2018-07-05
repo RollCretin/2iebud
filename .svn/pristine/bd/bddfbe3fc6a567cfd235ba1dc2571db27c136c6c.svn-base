@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\weixin.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-mdpi\\weixin.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\weixin.png",
+        "source": "D:\\DuBei2.0\\app\\src\\main\\res\\mipmap-mdpi\\weixin.png"
+    },
+    {
+        "merged": "D:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\dubei.png",
+        "source": "D:\\DuBei2.0\\app\\src\\main\\res\\mipmap-mdpi\\dubei.png"
+    },
+    {
+        "merged": "D:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\DuBei2.0\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\dubei.png",
+        "source": "E:\\DuBei2.0\\app\\src\\main\\res\\mipmap-mdpi\\dubei.png"
+    }
+]

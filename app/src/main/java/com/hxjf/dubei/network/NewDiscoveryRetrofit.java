@@ -24,12 +24,12 @@ public class NewDiscoveryRetrofit {
     private static NewDiscoveryRetrofit sReaderRetroift;
 
     //线下环境
-    public static final String BASE_URL = "http://test2.17dubei.com";//测试环境
-    public static final String IMAGE_URL = "http://test2.17dubei.com/image";//测试图片接口域名
+//    public static final String BASE_URL = "http://test2.17dubei.com";//测试环境
+//    public static final String IMAGE_URL = "http://test2.17dubei.com/image";//测试图片接口域名
 
     //线上环境
-//    public static final String BASE_URL = "http://web.17dubei.com/";//线上
-//    public static final String IMAGE_URL = "http://image.17dubei.com";//线上图片接口域名
+    public static final String BASE_URL = "http://web.17dubei.com/";//线上
+    public static final String IMAGE_URL = "http://image.17dubei.com";//线上图片接口域名
 
 
 
@@ -49,7 +49,6 @@ public class NewDiscoveryRetrofit {
         }
         return sReaderRetroift;
     }
-
 
     private NewDiscoveryRetrofit() {
         OkHttpClient okHttpClient = new OkHttpClient.Builder().

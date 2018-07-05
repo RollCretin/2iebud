@@ -1,0 +1,82 @@
+// Generated code from Butter Knife. Do not modify!
+package com.hxjf.dubei.ui.fragment;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.support.v7.widget.RecyclerView;
+import android.view.View;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.ListView;
+import android.widget.TextView;
+import butterknife.Unbinder;
+import butterknife.internal.DebouncingOnClickListener;
+import butterknife.internal.Utils;
+import com.hxjf.dubei.R;
+import com.hxjf.dubei.widget.MySwipeRefreshLayout;
+import com.sothree.slidinguppanel.SlidingUpPanelLayout;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class HomeFragment_ViewBinding implements Unbinder {
+  private HomeFragment target;
+
+  private View view2131756946;
+
+  private View view2131756949;
+
+  @UiThread
+  public HomeFragment_ViewBinding(final HomeFragment target, View source) {
+    this.target = target;
+
+    View view;
+    target.homeRecyclerview = Utils.findRequiredViewAsType(source, R.id.home_recyclerview, "field 'homeRecyclerview'", RecyclerView.class);
+    target.slidingLayout = Utils.findRequiredViewAsType(source, R.id.sliding_layout, "field 'slidingLayout'", SlidingUpPanelLayout.class);
+    target.homeTvPK = Utils.findRequiredViewAsType(source, R.id.home_tv_PK, "field 'homeTvPK'", TextView.class);
+    target.homeLlPK = Utils.findRequiredViewAsType(source, R.id.home_ll_PK, "field 'homeLlPK'", LinearLayout.class);
+    view = Utils.findRequiredView(source, R.id.home_plus, "field 'homePlus' and method 'onClick'");
+    target.homePlus = Utils.castView(view, R.id.home_plus, "field 'homePlus'", ImageView.class);
+    view2131756946 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.homeLvPKlist = Utils.findRequiredViewAsType(source, R.id.home_lv_PKlist, "field 'homeLvPKlist'", ListView.class);
+    target.homeRefresh = Utils.findRequiredViewAsType(source, R.id.home_refresh, "field 'homeRefresh'", MySwipeRefreshLayout.class);
+    view = Utils.findRequiredView(source, R.id.home_nonet, "field 'homeNonet' and method 'onClick'");
+    target.homeNonet = Utils.castView(view, R.id.home_nonet, "field 'homeNonet'", TextView.class);
+    view2131756949 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.homeDragView = Utils.findRequiredViewAsType(source, R.id.dragView, "field 'homeDragView'", LinearLayout.class);
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    HomeFragment target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.homeRecyclerview = null;
+    target.slidingLayout = null;
+    target.homeTvPK = null;
+    target.homeLlPK = null;
+    target.homePlus = null;
+    target.homeLvPKlist = null;
+    target.homeRefresh = null;
+    target.homeNonet = null;
+    target.homeDragView = null;
+
+    view2131756946.setOnClickListener(null);
+    view2131756946 = null;
+    view2131756949.setOnClickListener(null);
+    view2131756949 = null;
+  }
+}

@@ -1,0 +1,141 @@
+// Generated code from Butter Knife. Do not modify!
+package com.hxjf.dubei.ui.activity;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.view.View;
+import android.widget.CheckBox;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+import butterknife.Unbinder;
+import butterknife.internal.DebouncingOnClickListener;
+import butterknife.internal.Utils;
+import com.hxjf.dubei.R;
+import de.hdodenhof.circleimageview.CircleImageView;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class BookListDetailActivity_ViewBinding implements Unbinder {
+  private BookListDetailActivity target;
+
+  private View view2131755280;
+
+  private View view2131755281;
+
+  private View view2131755295;
+
+  private View view2131755287;
+
+  private View view2131755296;
+
+  private View view2131755293;
+
+  @UiThread
+  public BookListDetailActivity_ViewBinding(BookListDetailActivity target) {
+    this(target, target.getWindow().getDecorView());
+  }
+
+  @UiThread
+  public BookListDetailActivity_ViewBinding(final BookListDetailActivity target, View source) {
+    this.target = target;
+
+    View view;
+    view = Utils.findRequiredView(source, R.id.booklist_detail_cover, "field 'booklistDetailCover' and method 'onClick'");
+    target.booklistDetailCover = Utils.castView(view, R.id.booklist_detail_cover, "field 'booklistDetailCover'", ImageView.class);
+    view2131755280 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.booklistDetailTitle = Utils.findRequiredViewAsType(source, R.id.booklist_detail_title, "field 'booklistDetailTitle'", TextView.class);
+    target.booklistDetailCount = Utils.findRequiredViewAsType(source, R.id.booklist_detail_count, "field 'booklistDetailCount'", TextView.class);
+    view = Utils.findRequiredView(source, R.id.booklist_detail_back, "field 'booklistDetailBack' and method 'onClick'");
+    target.booklistDetailBack = Utils.castView(view, R.id.booklist_detail_back, "field 'booklistDetailBack'", ImageView.class);
+    view2131755281 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.booklist_detail_des, "field 'booklistDetailDes' and method 'onClick'");
+    target.booklistDetailDes = Utils.castView(view, R.id.booklist_detail_des, "field 'booklistDetailDes'", TextView.class);
+    view2131755295 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.booklistDetailBookContainer = Utils.findRequiredViewAsType(source, R.id.booklist_detail_book_container, "field 'booklistDetailBookContainer'", LinearLayout.class);
+    target.booklistDetailCbLike = Utils.findRequiredViewAsType(source, R.id.booklist_detail_cb_like, "field 'booklistDetailCbLike'", CheckBox.class);
+    target.booklistDetailLikeCount = Utils.findRequiredViewAsType(source, R.id.booklist_detail_like_count, "field 'booklistDetailLikeCount'", TextView.class);
+    view = Utils.findRequiredView(source, R.id.booklist_detail_share, "field 'booklistDetailShare' and method 'onClick'");
+    target.booklistDetailShare = Utils.castView(view, R.id.booklist_detail_share, "field 'booklistDetailShare'", ImageView.class);
+    view2131755287 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.booklistDetailShareCount = Utils.findRequiredViewAsType(source, R.id.booklist_detail_share_count, "field 'booklistDetailShareCount'", TextView.class);
+    view = Utils.findRequiredView(source, R.id.booklist_detail_profile_more, "field 'booklistDetailProfileMore' and method 'onClick'");
+    target.booklistDetailProfileMore = Utils.castView(view, R.id.booklist_detail_profile_more, "field 'booklistDetailProfileMore'", TextView.class);
+    view2131755296 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.booklist_detail_pratroit, "field 'booklistDetailPratroit' and method 'onClick'");
+    target.booklistDetailPratroit = Utils.castView(view, R.id.booklist_detail_pratroit, "field 'booklistDetailPratroit'", CircleImageView.class);
+    view2131755293 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.booklistDetailName = Utils.findRequiredViewAsType(source, R.id.booklist_detail_name, "field 'booklistDetailName'", TextView.class);
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    BookListDetailActivity target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.booklistDetailCover = null;
+    target.booklistDetailTitle = null;
+    target.booklistDetailCount = null;
+    target.booklistDetailBack = null;
+    target.booklistDetailDes = null;
+    target.booklistDetailBookContainer = null;
+    target.booklistDetailCbLike = null;
+    target.booklistDetailLikeCount = null;
+    target.booklistDetailShare = null;
+    target.booklistDetailShareCount = null;
+    target.booklistDetailProfileMore = null;
+    target.booklistDetailPratroit = null;
+    target.booklistDetailName = null;
+
+    view2131755280.setOnClickListener(null);
+    view2131755280 = null;
+    view2131755281.setOnClickListener(null);
+    view2131755281 = null;
+    view2131755295.setOnClickListener(null);
+    view2131755295 = null;
+    view2131755287.setOnClickListener(null);
+    view2131755287 = null;
+    view2131755296.setOnClickListener(null);
+    view2131755296 = null;
+    view2131755293.setOnClickListener(null);
+    view2131755293 = null;
+  }
+}

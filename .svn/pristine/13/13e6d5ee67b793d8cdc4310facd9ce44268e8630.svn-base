@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_item_folder.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_item_folder.xml"
+    },
+    {
+        "merged": "D:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_location_dark.xml",
+        "source": "D:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_location_dark.xml"
+    },
+    {
+        "merged": "D:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_navi_right.xml",
+        "source": "D:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_navi_right.xml"
+    },
+    {
+        "merged": "D:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_sort_de.xml",
+        "source": "D:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_sort_de.xml"
+    },
+    {
+        "merged": "D:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_sort_as.xml",
+        "source": "D:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_sort_as.xml"
+    },
+    {
+        "merged": "D:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_folders_view_list.xml",
+        "source": "D:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_folders_view_list.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_create_folder.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_create_folder.xml"
+    },
+    {
+        "merged": "D:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_create_folder.xml",
+        "source": "D:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_create_folder.xml"
+    },
+    {
+        "merged": "D:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_item_folder.xml",
+        "source": "D:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_item_folder.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_ok_saveas.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_ok_saveas.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_item_file.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_item_file.xml"
+    },
+    {
+        "merged": "D:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_navi_left.xml",
+        "source": "D:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_navi_left.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_folders_view_list.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_folders_view_list.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_location_dark.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_location_dark.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_button_location_dark_pressed.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_button_location_dark_pressed.xml"
+    },
+    {
+        "merged": "D:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_item_file.xml",
+        "source": "D:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_item_file.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_folders_view_grid.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_folders_view_grid.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_navi_right.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_navi_right.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_sort_de.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_sort_de.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_sort_as.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_sort_as.xml"
+    },
+    {
+        "merged": "E:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_navi_left.xml",
+        "source": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_navi_left.xml"
+    },
+    {
+        "merged": "D:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_folders_view_grid.xml",
+        "source": "D:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_folders_view_grid.xml"
+    },
+    {
+        "merged": "D:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_button_location_dark_pressed.xml",
+        "source": "D:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_button_location_dark_pressed.xml"
+    },
+    {
+        "merged": "D:\\DuBei2.0\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_ok_saveas.xml",
+        "source": "D:\\DuBei2.0\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_ok_saveas.xml"
+    }
+]

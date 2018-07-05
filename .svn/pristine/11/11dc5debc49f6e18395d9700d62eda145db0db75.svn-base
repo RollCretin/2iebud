@@ -1,0 +1,153 @@
+// Generated code from Butter Knife. Do not modify!
+package com.hxjf.dubei.ui.activity;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.view.View;
+import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.TextView;
+import butterknife.Unbinder;
+import butterknife.internal.DebouncingOnClickListener;
+import butterknife.internal.Utils;
+import com.hxjf.dubei.R;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class MybackgroundActivity_ViewBinding implements Unbinder {
+  private MybackgroundActivity target;
+
+  private View view2131755415;
+
+  private View view2131755416;
+
+  private View view2131755417;
+
+  private View view2131755418;
+
+  private View view2131755419;
+
+  private View view2131755420;
+
+  private View view2131755421;
+
+  private View view2131755422;
+
+  @UiThread
+  public MybackgroundActivity_ViewBinding(MybackgroundActivity target) {
+    this(target, target.getWindow().getDecorView());
+  }
+
+  @UiThread
+  public MybackgroundActivity_ViewBinding(final MybackgroundActivity target, View source) {
+    this.target = target;
+
+    View view;
+    view = Utils.findRequiredView(source, R.id.background_back, "field 'backgroundBack' and method 'onClick'");
+    target.backgroundBack = Utils.castView(view, R.id.background_back, "field 'backgroundBack'", ImageView.class);
+    view2131755415 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.background_save, "field 'backgroundSave' and method 'onClick'");
+    target.backgroundSave = Utils.castView(view, R.id.background_save, "field 'backgroundSave'", TextView.class);
+    view2131755416 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.background_school_name, "field 'backgoroundschoolname' and method 'onClick'");
+    target.backgoroundschoolname = Utils.castView(view, R.id.background_school_name, "field 'backgoroundschoolname'", EditText.class);
+    view2131755417 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.background_education, "field 'backgroundEducation' and method 'onClick'");
+    target.backgroundEducation = Utils.castView(view, R.id.background_education, "field 'backgroundEducation'", TextView.class);
+    view2131755418 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.background_major, "field 'backgroundMajor' and method 'onClick'");
+    target.backgroundMajor = Utils.castView(view, R.id.background_major, "field 'backgroundMajor'", EditText.class);
+    view2131755419 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.background_end_time, "field 'backgroundEndTime' and method 'onClick'");
+    target.backgroundEndTime = Utils.castView(view, R.id.background_end_time, "field 'backgroundEndTime'", TextView.class);
+    view2131755420 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.background_starttime, "field 'backgroundStarttime' and method 'onClick'");
+    target.backgroundStarttime = Utils.castView(view, R.id.background_starttime, "field 'backgroundStarttime'", TextView.class);
+    view2131755421 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.experience_delete, "field 'experienceDelete' and method 'onClick'");
+    target.experienceDelete = Utils.castView(view, R.id.experience_delete, "field 'experienceDelete'", TextView.class);
+    view2131755422 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    MybackgroundActivity target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.backgroundBack = null;
+    target.backgroundSave = null;
+    target.backgoroundschoolname = null;
+    target.backgroundEducation = null;
+    target.backgroundMajor = null;
+    target.backgroundEndTime = null;
+    target.backgroundStarttime = null;
+    target.experienceDelete = null;
+
+    view2131755415.setOnClickListener(null);
+    view2131755415 = null;
+    view2131755416.setOnClickListener(null);
+    view2131755416 = null;
+    view2131755417.setOnClickListener(null);
+    view2131755417 = null;
+    view2131755418.setOnClickListener(null);
+    view2131755418 = null;
+    view2131755419.setOnClickListener(null);
+    view2131755419 = null;
+    view2131755420.setOnClickListener(null);
+    view2131755420 = null;
+    view2131755421.setOnClickListener(null);
+    view2131755421 = null;
+    view2131755422.setOnClickListener(null);
+    view2131755422 = null;
+  }
+}

@@ -5,23 +5,23 @@ android {
         release {
             keyAlias 'fangrongjie'
             keyPassword '530467915'
-            storeFile file('D:/DuBei2.0/dubei.jks')
+            storeFile file('/Users/cretin/fangrongjie/dubei/dubei/读呗签名文件/dubei.jks')
             storePassword '530467915'
         }
         debug {
         }
     }
-    compileSdkVersion 27
-    buildToolsVersion '27.0.1'
+    compileSdkVersion 25
+    buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "com.hxjf.dubei"
         minSdkVersion 15
-        targetSdkVersion 27
-        versionCode 10
-        versionName "1.1.2"
+        targetSdkVersion 25
+        versionCode 12
+        versionName "1.1.4"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         ndk {
-            //选择要添加的对应cpu类型的.so库。
+            //若有so包的时候使用，选择要添加的对应cpu类型的.so库。
             abiFilters 'armeabi', 'armeabi-v7a', 'armeabi-v8a'
             // 还可以添加 'x86', 'x86_64', 'mips', 'mips64'·
         }
@@ -73,6 +73,8 @@ android {
     }
     //Bugtags 插件配置
     bugtags {
+
+
         //自动上传符号表功能配置，如果需要根据 build varint 配置，请参考帮助中心->符号表->Android 符号表->配置自动上传符号表
         appKey "a899d37870106393735ffb6b87a13d28"  //这里是你的 appKey
         appSecret "APP_SECRET"    //这里是你的 appSecret，管理员在设置页可以查看

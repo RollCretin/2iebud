@@ -1,0 +1,1869 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:2:1-834:12
+	package
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from D:\DuBei2.0\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DuBei2.0\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\DuBei2.0\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DuBei2.0\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\DuBei2.0\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DuBei2.0\app\src\main\AndroidManifest.xml
+permission#com.hxjf.dubei.permission.JPUSH_MESSAGE
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:6:5-8:47
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:11:5-13:47
+	android:protectionLevel
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:7:9-63
+uses-permission#com.example.lucian.jpushdemo.permission.JPUSH_MESSAGE
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:10:5-93
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:10:22-90
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:11:5-76
+MERGED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:14:5-76
+MERGED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:23:5-76
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:27:5-76
+MERGED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:12:5-75
+MERGED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:15:5-75
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:20:5-75
+MERGED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:14:5-67
+MERGED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:11:5-67
+MERGED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:17:5-67
+MERGED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:22:5-67
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:18:5-67
+MERGED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:15:5-80
+MERGED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:14:5-80
+MERGED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:11:5-80
+MERGED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:26:5-80
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:22:5-80
+MERGED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:16:5-81
+MERGED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:13:5-81
+MERGED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:12:5-81
+MERGED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:25:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:21:5-81
+MERGED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:17:5-84
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:25:5-84
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:17:22-81
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:18:5-68
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:19:5-68
+MERGED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:19:5-79
+MERGED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:12:5-79
+MERGED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:13:5-79
+MERGED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:24:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:26:5-79
+MERGED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:20:5-89
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:34:5-89
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:20:22-86
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:21:5-72
+MERGED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:16:5-73
+MERGED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:16:5-73
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:23:5-73
+MERGED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:18:5-73
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:21:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:24:5-80
+MERGED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:20:5-81
+MERGED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:21:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:26:5-78
+MERGED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:19:5-79
+MERGED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:20:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:32:5-75
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:32:5-76
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:32:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:42:5-67
+MERGED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:42:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:43:5-73
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:43:22-71
+application
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:46:5-832:19
+MERGED from [com.github.devlight.shadowlayout:library:1.0.2] C:\Users\Administrator\.android\build-cache\1c59f69f6c572db53d560b2be56a2b3c1452859e\output\AndroidManifest.xml:23:5-26:38
+MERGED from [com.sothree.slidinguppanel:library:3.3.0] C:\Users\Administrator\.android\build-cache\5bf8821270ab3702d8fd4e555706e005406f318a\output\AndroidManifest.xml:9:5-20
+MERGED from [com.yinglan.shadowimageview:shadowimageview:1.0.2] C:\Users\Administrator\.android\build-cache\47a74cd8ad8ee577d62f8ac161cb758a15ba2fcc\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\Administrator\.android\build-cache\54b7a99563565a70f87d64a46f68c7ab7b74dd91\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.0] C:\Users\Administrator\.android\build-cache\a53d7c9134758adadb5be541d856f3e1b1c65a25\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.0] C:\Users\Administrator\.android\build-cache\4e9b04b96025ab5b2ae7d99cb5b923a1f72687cf\output\AndroidManifest.xml:26:5-20
+MERGED from [com.wx.wheelview:wheelview:1.3.3] C:\Users\Administrator\.android\build-cache\ca056ee812e424a806c9b896aaba1c73787aa305\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.xw.repo:bubbleseekbar:3.4] C:\Users\Administrator\.android\build-cache\fa258bbef11ce893cdda2349d81eeb4d33a8c052\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.frank-zhu:pullzoomview:1.0.0] C:\Users\Administrator\.android\build-cache\070b7c347961d6df1f854175b68ad856fa2b1e47\output\AndroidManifest.xml:11:5-15:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Administrator\.android\build-cache\5127abae23eb699f73d69f3386663cc1a45d652e\output\AndroidManifest.xml:9:5-20
+MERGED from [com.linyuzai:requestbutton:1.1.0] C:\Users\Administrator\.android\build-cache\f338df59f452e3b45b0d22859f08eda26bb7b72e\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.open-android:PullToRefresh:v1.0] C:\Users\Administrator\.android\build-cache\0efad95c0e002ec0e58b19f4ae8c8d38cc2b6f37\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.codbking:CalendarExaple:v1.0.0] C:\Users\Administrator\.android\build-cache\6f2b305169598679078f01fb637bdde49a20e5c2\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Administrator\.android\build-cache\0d943ebc8ab98d6f6a2112808e2fca86b329aaee\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\bea13b46e16785873fc2ea11932e523a2801bef9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\ee284b5e688f8d945d7060cc7023dafc5b55765f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\Administrator\.android\build-cache\aded6ca89ce04d074c5fac068b1530f7f9faa443\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.liulishuo.filedownloader:library:1.6.4] C:\Users\Administrator\.android\build-cache\761d139d994296c42245dfb24772496e814e25a9\output\AndroidManifest.xml:11:5-16:19
+MERGED from [com.r0adkll:slidableactivity:2.0.5] C:\Users\Administrator\.android\build-cache\db9d8f2eb55cf232f13eca5966556859e0ced413\output\AndroidManifest.xml:9:5-20
+MERGED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:18:5-41:19
+MERGED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:24:5-27:19
+MERGED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:29:5-42:19
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:37:5-128:19
+MERGED from [cn.jiguang.sdk:jcore:1.1.1] C:\Users\Administrator\.android\build-cache\b60c42f9c29d7894f3fdb19dc25fb66877b62950\output\AndroidManifest.xml:11:5-12:19
+MERGED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:40:5-197:19
+MERGED from [DuBei2.0:ambilWarna:unspecified] D:\DuBei2.0\ambilWarna\build\intermediates\bundles\default\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\.android\build-cache\10ad72bd48d20b4bcae434e330262b36320edf9a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Administrator\.android\build-cache\df9a2d2d283466220a0ac3fd893d12b7245f7793\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\.android\build-cache\45128d7d0bf1f525662a65380cd59e80a7af89ae\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\.android\build-cache\28f79cdda104cfdbdc7967f1f09f8bb8145d269c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\.android\build-cache\d82d04b6c01417b64e56e6577920432e8b25cf1c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\.android\build-cache\803a9477f6e4c06db16f7767393c4c593e6b9132\output\AndroidManifest.xml:29:5-20
+MERGED from [DuBei2.0:superToasts:unspecified] D:\DuBei2.0\superToasts\build\intermediates\bundles\default\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:50:9-41
+	android:supportsRtl
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:51:9-35
+	android:allowBackup
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:48:9-36
+		REJECTED from [com.github.devlight.shadowlayout:library:1.0.2] C:\Users\Administrator\.android\build-cache\1c59f69f6c572db53d560b2be56a2b3c1452859e\output\AndroidManifest.xml:24:9-35
+		REJECTED from [com.yinglan.shadowimageview:shadowimageview:1.0.2] C:\Users\Administrator\.android\build-cache\47a74cd8ad8ee577d62f8ac161cb758a15ba2fcc\output\AndroidManifest.xml:12:9-35
+		REJECTED from [com.wx.wheelview:wheelview:1.3.3] C:\Users\Administrator\.android\build-cache\ca056ee812e424a806c9b896aaba1c73787aa305\output\AndroidManifest.xml:12:9-35
+		REJECTED from [com.xw.repo:bubbleseekbar:3.4] C:\Users\Administrator\.android\build-cache\fa258bbef11ce893cdda2349d81eeb4d33a8c052\output\AndroidManifest.xml:12:9-35
+		REJECTED from [com.github.frank-zhu:pullzoomview:1.0.0] C:\Users\Administrator\.android\build-cache\070b7c347961d6df1f854175b68ad856fa2b1e47\output\AndroidManifest.xml:12:9-35
+		REJECTED from [com.linyuzai:requestbutton:1.1.0] C:\Users\Administrator\.android\build-cache\f338df59f452e3b45b0d22859f08eda26bb7b72e\output\AndroidManifest.xml:12:9-35
+		REJECTED from [com.github.open-android:PullToRefresh:v1.0] C:\Users\Administrator\.android\build-cache\0efad95c0e002ec0e58b19f4ae8c8d38cc2b6f37\output\AndroidManifest.xml:12:9-35
+		REJECTED from [com.github.codbking:CalendarExaple:v1.0.0] C:\Users\Administrator\.android\build-cache\6f2b305169598679078f01fb637bdde49a20e5c2\output\AndroidManifest.xml:12:9-35
+		REJECTED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:18:18-45
+		REJECTED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:25:9-36
+	android:icon
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:49:9-43
+		REJECTED from [com.github.frank-zhu:pullzoomview:1.0.0] C:\Users\Administrator\.android\build-cache\070b7c347961d6df1f854175b68ad856fa2b1e47\output\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:52:9-40
+	tools:replace
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:53:9-57
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:47:9-46
+meta-data#com.amap.api.v2.apikey
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:55:9-57:63
+	android:value
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:57:13-61
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:56:13-50
+service#com.amap.api.location.APSService
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:59:9-76
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:59:18-65
+receiver#com.hxjf.dubei.receiver.JPushReceiver
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:62:9-74:20
+	android:enabled
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:63:13-65
+intent-filter#cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+com.example.lucian.jpushdemo
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:66:13-73:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:67:17-79
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:67:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:68:17-83
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:68:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:69:17-88
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:69:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:70:17-86
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:70:25-83
+action#cn.jpush.android.intent.CONNECTION
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:71:17-77
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:71:25-74
+category#com.example.lucian.jpushdemo
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:72:17-73
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:72:27-70
+provider#android.support.v4.content.FileProvider
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:76:9-84:20
+	android:authorities
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:78:13-62
+	android:grantUriPermissions
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:80:13-47
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:79:13-37
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:77:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:81:13-83:54
+	android:resource
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:83:17-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:82:17-67
+activity#org.geometerplus.android.fbreader.error.BookReadingErrorActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:87:9-97:20
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:90:13-37
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:89:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:91:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:88:13-92
+intent-filter#android.fbreader.action.ERROR+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:92:13-96:29
+action#android.fbreader.action.ERROR
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:93:17-72
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:93:25-69
+category#android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:94:17-76
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:94:27-73
+data
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:95:17-63
+	android:scheme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:95:23-60
+activity#org.geometerplus.zlibrary.ui.android.error.BugReportActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:98:9-104:56
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:103:13-37
+	android:label
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:102:13-43
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:101:13-37
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:100:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:104:13-53
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:99:13-88
+activity#org.geometerplus.android.fbreader.crash.FixBooksDirectoryActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:105:9-116:20
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:109:13-37
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:108:13-37
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:107:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:110:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:106:13-93
+intent-filter#android.fbreader.action.CRASH+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:111:13-115:29
+action#android.fbreader.action.CRASH
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:112:17-72
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:112:25-69
+activity#org.geometerplus.android.fbreader.crash.MissingNativeLibraryActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:117:9-133:20
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:121:13-37
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:120:13-37
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:119:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:122:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:118:13-96
+service#org.geometerplus.android.fbreader.api.ApiService
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:135:9-142:19
+	android:launchMode
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:137:13-44
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:136:13-76
+intent-filter#android.fbreader.action.API+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:138:13-141:29
+action#android.fbreader.action.API
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:139:17-70
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:139:25-67
+activity#org.geometerplus.android.fbreader.FBReader
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:145:9-260:20
+	android:label
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:149:13-45
+	android:launchMode
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:150:13-44
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:147:13-74
+	android:icon
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:148:13-46
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:151:13-53
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:146:13-70
+intent-filter#android.fbreader.action.VIEW+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:156:13-159:29
+action#android.fbreader.action.VIEW
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:157:17-71
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:157:25-68
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:165:13-169:29
+action#android.intent.action.VIEW
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:166:17-69
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:166:25-66
+intent-filter#android.fbreader.action.PLUGIN+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:170:13-173:29
+action#android.fbreader.action.PLUGIN
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:171:17-73
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:171:25-70
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:220:13-243:29
+category#android.intent.category.BROWSABLE
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:224:17-78
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:224:27-75
+intent-filter#android.intent.action.SEARCH
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:244:13-246:29
+action#android.intent.action.SEARCH
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:245:17-71
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:245:25-68
+meta-data#android.app.searchable
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:248:13-250:54
+	android:resource
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:250:17-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:249:17-54
+intent-filter#android.fbreader.action.CLOSE+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:252:13-255:29
+action#android.fbreader.action.CLOSE
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:253:17-72
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:253:25-69
+intent-filter#android.fbreader.action.PLUGIN_CRASH+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:256:13-259:29
+action#android.fbreader.action.PLUGIN_CRASH
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:257:17-79
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:257:25-76
+activity#org.geometerplus.android.fbreader.dict.DictionaryNotInstalledActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:261:9-265:54
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:264:13-37
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:263:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:265:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:262:13-97
+activity#org.geometerplus.android.fbreader.CancelActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:266:9-274:20
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:268:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:269:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:267:13-76
+intent-filter#android.fbreader.action.CANCEL_MENU+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:270:13-273:29
+action#android.fbreader.action.CANCEL_MENU
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:271:17-78
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:271:25-75
+activity#org.geometerplus.android.fbreader.PluginListActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:275:9-278:54
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:277:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:278:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:276:13-80
+activity#org.geometerplus.android.fbreader.bookmark.BookmarksActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:280:9-296:20
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:284:13-41
+	android:launchMode
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:283:13-44
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:282:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:285:13-65
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:281:13-88
+intent-filter#android.fbreader.action.BOOKMARKS+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:292:13-295:29
+action#android.fbreader.action.BOOKMARKS
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:293:17-76
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:293:25-73
+activity#org.geometerplus.android.fbreader.bookmark.EditBookmarkActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:297:9-305:20
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:299:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:300:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:298:13-91
+intent-filter#android.fbreader.action.EDIT_BOOKMARK+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:301:13-304:29
+action#android.fbreader.action.EDIT_BOOKMARK
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:302:17-80
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:302:25-77
+activity#org.geometerplus.android.fbreader.bookmark.EditStyleActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:306:9-314:20
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:308:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:309:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:307:13-88
+intent-filter#android.fbreader.action.EDIT_STYLES+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:310:13-313:29
+action#android.fbreader.action.EDIT_STYLES
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:311:17-78
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:311:25-75
+activity#org.geometerplus.android.fbreader.image.ImageViewActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:316:9-320:56
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:319:13-41
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:318:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:320:13-53
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:317:13-85
+service#org.geometerplus.android.fbreader.libraryService.LibraryService
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:322:9-329:19
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:325:13-46
+	android:launchMode
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:324:13-44
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:323:13-91
+intent-filter#android.fbreader.action.LIBRARY_SERVICE
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:326:13-328:29
+action#android.fbreader.action.LIBRARY_SERVICE
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:327:17-82
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:327:25-79
+service#org.geometerplus.android.fbreader.config.ConfigService
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:330:9-337:19
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:333:13-45
+	android:launchMode
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:332:13-44
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:331:13-82
+intent-filter#android.fbreader.action.CONFIG_SERVICE
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:334:13-336:29
+action#android.fbreader.action.CONFIG_SERVICE
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:335:17-81
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:335:25-78
+service#org.geometerplus.android.fbreader.sync.SyncService
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:338:9-348:19
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:341:13-44
+	android:launchMode
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:340:13-44
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:339:13-78
+intent-filter#android.fbreader.action.sync.START
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:342:13-344:29
+action#android.fbreader.action.sync.START
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:343:17-77
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:343:25-74
+intent-filter#android.fbreader.action.sync.QUICK_SYNC
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:345:13-347:29
+action#android.fbreader.action.sync.QUICK_SYNC
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:346:17-82
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:346:25-79
+activity#org.geometerplus.android.fbreader.library.BookInfoActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:350:9-359:20
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:353:13-39
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:352:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:354:13-53
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:351:13-86
+intent-filter#android.fbreader.action.BOOK_INFO+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:355:13-358:29
+action#android.fbreader.action.BOOK_INFO
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:356:17-76
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:356:25-73
+activity#org.geometerplus.android.fbreader.library.LibrarySearchActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:360:9-370:20
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:362:13-39
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:363:13-59
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:361:13-91
+activity#org.geometerplus.android.fbreader.library.LibraryActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:371:9-384:20
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:375:13-39
+	android:launchMode
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:374:13-44
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:373:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:376:13-53
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:372:13-85
+meta-data#android.app.default_searchable
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:377:13-379:99
+	android:value
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:379:17-96
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:378:17-62
+intent-filter#android.fbreader.action.LIBRARY+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:380:13-383:29
+action#android.fbreader.action.LIBRARY
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:381:17-74
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:381:25-71
+activity#org.geometerplus.android.fbreader.TOCActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:385:9-388:56
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:387:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:388:13-53
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:386:13-73
+activity#org.geometerplus.android.fbreader.preferences.PreferenceActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:389:9-403:20
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:392:13-43
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:391:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:393:13-53
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:390:13-92
+intent-filter#android.fbreader.action.PREFERENCES+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:399:13-402:29
+action#android.fbreader.action.PREFERENCES
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:400:17-78
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:400:25-75
+activity#org.geometerplus.android.fbreader.preferences.EditBookInfoActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:404:9-408:56
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:407:13-39
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:406:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:408:13-53
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:405:13-94
+activity#org.geometerplus.android.fbreader.sync.MissingBookActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:409:9-413:54
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:412:13-46
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:411:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:413:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:410:13-86
+activity#org.geometerplus.android.fbreader.network.BookDownloader
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:414:9-495:20
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:416:13-46
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:417:13-59
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:415:13-84
+service#org.geometerplus.android.fbreader.network.BookDownloaderService
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:497:9-501:49
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:501:13-46
+	android:launchMode
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:500:13-44
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:499:13-37
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:498:13-91
+activity#org.geometerplus.android.fbreader.network.NetworkSearchActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:503:9-513:20
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:505:13-46
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:506:13-59
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:504:13-91
+activity#org.geometerplus.android.fbreader.network.auth.WebAuthorisationScreen
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:514:9-519:56
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:518:13-46
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:517:13-37
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:516:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:519:13-53
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:515:13-97
+activity#org.geometerplus.android.fbreader.network.NetworkLibraryPrimaryActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:520:9-545:20
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:524:13-46
+	android:launchMode
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:523:13-44
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:522:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:525:13-53
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:521:13-99
+intent-filter#android.fbreader.action.OPEN_NETWORK_CATALOG+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:530:13-540:29
+action#android.fbreader.action.OPEN_NETWORK_CATALOG
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:531:17-87
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:531:25-84
+intent-filter#android.fbreader.action.NETWORK_LIBRARY+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:541:13-544:29
+action#android.fbreader.action.NETWORK_LIBRARY
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:542:17-82
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:542:25-79
+activity#org.geometerplus.android.fbreader.network.NetworkLibrarySecondaryActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:546:9-550:56
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:549:13-46
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:548:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:550:13-53
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:547:13-101
+activity#org.geometerplus.android.fbreader.network.AuthenticationActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:551:9-555:54
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:554:13-46
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:553:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:555:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:552:13-92
+activity#org.geometerplus.android.fbreader.network.BuyBooksActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:556:9-560:54
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:559:13-46
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:558:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:560:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:557:13-86
+activity#org.geometerplus.android.fbreader.network.AddCatalogMenuActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:561:9-565:54
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:564:13-46
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:563:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:565:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:562:13-92
+activity#org.geometerplus.android.fbreader.network.AddCustomCatalogActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:566:9-603:20
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:569:13-46
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:568:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:570:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:567:13-94
+intent-filter#android.fbreader.action.ADD_OPDS_CATALOG+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:571:13-578:29
+action#android.fbreader.action.ADD_OPDS_CATALOG
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:572:17-83
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:572:25-80
+intent-filter#android.fbreader.action.ADD_OPDS_CATALOG_URL+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:589:13-595:29
+action#android.fbreader.action.ADD_OPDS_CATALOG_URL
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:590:17-87
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:590:25-84
+activity#org.geometerplus.android.fbreader.network.AuthorisationMenuActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:604:9-608:54
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:607:13-46
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:606:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:608:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:605:13-95
+activity#org.geometerplus.android.fbreader.network.litres.UserRegistrationActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:609:9-613:54
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:612:13-46
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:611:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:613:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:610:13-101
+activity#org.geometerplus.android.fbreader.network.litres.AutoRegistrationActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:614:9-618:54
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:617:13-46
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:616:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:618:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:615:13-101
+activity#org.geometerplus.android.fbreader.network.TopupMenuActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:619:9-623:54
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:622:13-46
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:621:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:623:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:620:13-87
+activity#org.geometerplus.android.fbreader.network.NetworkBookInfoActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:624:9-636:20
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:627:13-46
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:626:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:628:13-53
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:625:13-93
+activity#org.geometerplus.android.fbreader.network.CatalogManagerActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:637:9-640:56
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:639:13-46
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:640:13-53
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:638:13-92
+receiver#org.geometerplus.android.fbreader.network.ListenerCallback
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:642:9-649:20
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:644:13-46
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:643:13-86
+intent-filter#android.fbreader.action.network.SIGNIN+android.intent.category.DEFAULT
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:645:13-648:29
+action#android.fbreader.action.network.SIGNIN
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:646:17-81
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:646:25-78
+activity#org.geometerplus.android.fbreader.tips.TipsActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:651:9-654:54
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:653:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:654:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:652:13-79
+activity#com.paragon.dictionary.fbreader.OpenDictionaryActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:655:9-658:59
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:657:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:658:13-56
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:656:13-82
+service#org.geometerplus.android.fbreader.httpd.DataService
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:660:9-664:46
+	android:process
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:664:13-43
+	android:launchMode
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:663:13-44
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:662:13-37
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:661:13-79
+service#group.pals.android.lib.ui.filechooser.services.LocalFileProvider
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:665:9-667:40
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:667:13-37
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:666:13-92
+activity#group.pals.android.lib.ui.filechooser.FileChooserActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:669:9-673:54
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:672:13-37
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:671:13-83
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:673:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:670:13-85
+activity#org.geometerplus.android.fbreader.preferences.background.Chooser
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:674:9-678:54
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:677:13-37
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:676:13-83
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:678:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:675:13-92
+activity#org.geometerplus.android.fbreader.preferences.background.PredefinedImages
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:679:9-683:54
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:682:13-37
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:681:13-83
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:683:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:680:13-101
+activity#org.geometerplus.android.util.FolderListDialogActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:684:9-688:54
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:687:13-37
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:686:13-83
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:688:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:685:13-82
+activity#org.geometerplus.android.util.EditTagsDialogActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:689:9-693:54
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:692:13-37
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:691:13-83
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:693:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:690:13-80
+activity#org.geometerplus.android.util.EditAuthorsDialogActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:694:9-698:54
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:697:13-37
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:696:13-83
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:698:13-51
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:695:13-83
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:701:9-707:20
+	android:screenOrientation
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:705:13-47
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:704:13-37
+	android:windowSoftInputMode
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:706:13-67
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:703:13-85
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:702:13-60
+activity#com.alipay.sdk.app.H5AuthActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:708:9-714:20
+	android:screenOrientation
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:712:13-47
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:711:13-37
+	android:windowSoftInputMode
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:713:13-67
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:710:13-74
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:709:13-61
+activity#com.hxjf.dubei.ui.activity.GuideActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:718:9-725:20
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:719:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:720:13-724:29
+action#android.intent.action.MAIN
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:721:17-69
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:721:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:723:17-77
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:723:27-74
+activity#com.hxjf.dubei.ui.activity.SplashActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:726:9-728:20
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:727:13-69
+activity#com.hxjf.dubei.ui.activity.LoginActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:729:9-730:71
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:730:13-68
+activity#com.hxjf.dubei.ui.activity.MainActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:731:9-732:70
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:732:13-67
+activity#com.hxjf.dubei.ui.activity.ChallengeDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:742:9-87
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:742:19-84
+activity#com.hxjf.dubei.ui.activity.MyInformationActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:743:9-85
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:743:19-82
+activity#com.hxjf.dubei.ui.activity.MyLabelActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:744:9-79
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:744:19-76
+activity#com.hxjf.dubei.ui.activity.MyProfileActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:745:9-81
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:745:19-78
+activity#com.hxjf.dubei.ui.activity.MyExperienceActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:746:9-84
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:746:19-81
+activity#com.hxjf.dubei.ui.activity.MybackgroundActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:747:9-84
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:747:19-81
+activity#com.hxjf.dubei.ui.activity.MyBookListActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:748:9-749:75
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:749:13-73
+activity#com.hxjf.dubei.ui.activity.buildBookListActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:750:9-85
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:750:19-82
+activity#com.hxjf.dubei.ui.activity.AddBookActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:751:9-79
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:751:19-76
+activity#com.hxjf.dubei.ui.activity.BookListDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:752:9-753:80
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:753:13-77
+activity#com.hxjf.dubei.ui.activity.MyNoteBookActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:754:9-82
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:754:19-79
+activity#com.hxjf.dubei.ui.activity.MyBookCouponActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:755:9-84
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:755:19-81
+activity#com.hxjf.dubei.ui.activity.UseBookCouponActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:756:9-85
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:756:19-82
+activity#com.hxjf.dubei.ui.activity.ReadRemindActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:757:9-82
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:757:19-79
+activity#com.hxjf.dubei.ui.activity.SettingActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:758:9-79
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:758:19-76
+activity#com.hxjf.dubei.ui.activity.SelectLabelActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:759:9-83
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:759:19-80
+activity#com.hxjf.dubei.ui.activity.BookDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:760:9-82
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:760:19-79
+activity#com.hxjf.dubei.ui.activity.MyAccountActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:761:9-81
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:761:19-78
+activity#com.hxjf.dubei.ui.activity.AccountDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:762:9-85
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:762:19-82
+activity#com.hxjf.dubei.ui.activity.AboutReaderActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:763:9-83
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:763:19-80
+activity#com.hxjf.dubei.ui.activity.FeedbackAactivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:764:9-81
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:764:19-78
+activity#com.hxjf.dubei.ui.activity.MyMessageActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:765:9-81
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:765:19-78
+activity#com.hxjf.dubei.ui.activity.BookListActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:766:9-80
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:766:19-77
+activity#com.hxjf.dubei.ui.activity.NoteFactoryActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:767:9-83
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:767:19-80
+activity#com.hxjf.dubei.ui.activity.BookAnalysisActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:768:9-84
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:768:19-81
+activity#com.hxjf.dubei.ui.activity.NoteDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:769:9-770:76
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:770:13-73
+activity#com.hxjf.dubei.ui.activity.BookAnalysisDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:771:9-772:84
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:772:13-81
+activity#com.hxjf.dubei.ui.activity.SettingChallegeDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:773:9-774:87
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:774:13-84
+activity#com.hxjf.dubei.ui.activity.MobileVerificationActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:775:9-90
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:775:19-87
+activity#com.hxjf.dubei.ui.activity.ReadDoneActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:776:9-66
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:776:19-63
+activity#com.hxjf.dubei.ui.activity.ChallegeBookActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:777:9-70
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:777:19-67
+activity#com.hxjf.dubei.ui.activity.MoreBookActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:778:9-66
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:778:19-63
+activity#com.hxjf.dubei.ui.activity.HotBookActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:779:9-65
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:779:19-62
+activity#com.hxjf.dubei.ui.activity.ChallengeUserActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:780:9-71
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:780:19-68
+activity#com.hxjf.dubei.ui.activity.MyChallengeActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:781:9-69
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:781:19-66
+activity#com.hxjf.dubei.ui.activity.SettingChallengeSuccessActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:782:9-81
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:782:19-78
+activity#com.hxjf.dubei.ui.activity.CanJoinChallengeActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:783:9-74
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:783:19-71
+activity#com.hxjf.dubei.ui.activity.PersonDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:784:9-69
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:784:19-67
+activity#com.hxjf.dubei.ui.activity.personBookListActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:785:9-71
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:785:19-69
+activity#com.hxjf.dubei.ui.activity.PersonAchievementActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:786:9-74
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:786:19-72
+activity#com.hxjf.dubei.ui.activity.SearchActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:787:9-63
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:787:19-61
+activity#com.hxjf.dubei.ui.activity.SearchBookActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:788:9-67
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:788:19-65
+activity#com.hxjf.dubei.ui.activity.agreementActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:789:9-66
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:789:19-64
+activity#com.hxjf.dubei.ui.activity.NoticeActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:790:9-63
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:790:19-61
+activity#com.hxjf.dubei.ui.activity.SelectBookActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:791:9-106
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:791:66-104
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:791:19-65
+activity#com.hxjf.dubei.ui.activity.WithdrawDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:792:9-71
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:792:19-69
+activity#com.hxjf.dubei.ui.activity.ChangduActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:793:9-64
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:793:19-62
+activity#com.hxjf.dubei.ui.activity.registerSuccessActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:794:9-72
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:794:19-70
+activity#com.hxjf.dubei.zxing.android.CaptureActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:795:9-66
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:795:19-64
+activity#com.hxjf.dubei.ui.activity.MoreWonderfulActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:796:9-70
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:796:19-68
+activity#com.hxjf.dubei.ui.activity.WonderfulDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:797:9-72
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:797:19-70
+activity#com.hxjf.dubei.ui.activity.MoreBookBorrowActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:798:9-71
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:798:19-69
+activity#com.hxjf.dubei.ui.activity.BookBorrowDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:799:9-73
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:799:19-71
+activity#com.hxjf.dubei.ui.activity.SearchCollectBookActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:800:9-74
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:800:19-72
+activity#com.hxjf.dubei.ui.activity.MoreZoneActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:801:9-65
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:801:19-63
+activity#com.hxjf.dubei.ui.activity.ZoneDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:802:9-67
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:802:19-65
+activity#com.hxjf.dubei.ui.activity.ZoneCollectBookActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:803:9-72
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:803:19-70
+activity#com.hxjf.dubei.ui.activity.myCollectBookActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:804:9-70
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:804:19-68
+activity#com.hxjf.dubei.ui.activity.uploadActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:805:9-63
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:805:19-61
+activity#com.hxjf.dubei.ui.activity.navigationActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:806:9-67
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:806:19-65
+activity#com.hxjf.dubei.ui.activity.MyBookBorrowDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:807:9-75
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:807:19-73
+activity#com.hxjf.dubei.ui.activity.AppealDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:808:9-69
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:808:19-67
+activity#com.hxjf.dubei.ui.activity.AppealSuccessActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:809:9-70
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:809:19-68
+activity#com.hxjf.dubei.ui.activity.SaveExplainActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:810:9-68
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:810:19-66
+activity#com.hxjf.dubei.ui.activity.PersonBorrowDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:811:9-75
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:811:19-73
+activity#com.hxjf.dubei.ui.activity.BookPocketActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:812:9-67
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:812:19-65
+activity#com.hxjf.dubei.ui.activity.MyBorrowDetailActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:813:9-71
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:813:19-69
+activity#com.hxjf.dubei.ui.activity.MoreFriendActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:814:9-67
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:814:19-65
+activity#com.hxjf.dubei.ui.activity.MyAttentionActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:815:9-68
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:815:19-66
+activity#com.hxjf.dubei.ui.activity.WelcomeContributeActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:816:9-74
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:816:19-72
+activity#com.hxjf.dubei.ui.activity.WhatIsDubiActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:817:9-67
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:817:19-65
+activity#com.hxjf.dubei.ui.activity.GetDubiActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:818:9-64
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:818:19-62
+activity#com.hxjf.dubei.ui.activity.PromoteDubiActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:819:9-69
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:819:19-66
+meta-data#UMENG_APPKEY
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:821:9-824:21
+	android:value
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:823:13-53
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:822:13-40
+activity#com.hxjf.dubei.wxapi.WXEntryActivity
+ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:826:9-830:75
+	android:exported
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:829:13-36
+	android:configChanges
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:828:13-74
+	android:theme
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:830:13-72
+	android:name
+		ADDED from D:\DuBei2.0\app\src\main\AndroidManifest.xml:827:13-50
+uses-sdk
+INJECTED from D:\DuBei2.0\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.android\build-cache\bd08957707ad89f178f7074c60c554aafc893135\output\AndroidManifest.xml:18:5-42
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Administrator\.android\build-cache\e34e9cd97245d64ed172bf89bf95a051f3067b0e\output\AndroidManifest.xml:5:5-43
+MERGED from [com.github.devlight.shadowlayout:library:1.0.2] C:\Users\Administrator\.android\build-cache\1c59f69f6c572db53d560b2be56a2b3c1452859e\output\AndroidManifest.xml:19:5-21:41
+MERGED from [com.sothree.slidinguppanel:library:3.3.0] C:\Users\Administrator\.android\build-cache\5bf8821270ab3702d8fd4e555706e005406f318a\output\AndroidManifest.xml:7:5-43
+MERGED from [com.yinglan.shadowimageview:shadowimageview:1.0.2] C:\Users\Administrator\.android\build-cache\47a74cd8ad8ee577d62f8ac161cb758a15ba2fcc\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\Administrator\.android\build-cache\54b7a99563565a70f87d64a46f68c7ab7b74dd91\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.0] C:\Users\Administrator\.android\build-cache\a53d7c9134758adadb5be541d856f3e1b1c65a25\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.0] C:\Users\Administrator\.android\build-cache\4e9b04b96025ab5b2ae7d99cb5b923a1f72687cf\output\AndroidManifest.xml:20:5-44
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\Administrator\.android\build-cache\7699aff8d0230097c775f667f7419f7e9fd750e0\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.bigkoo:convenientbanner:2.0.5] C:\Users\Administrator\.android\build-cache\c39e4c3007e39962c213423d0873af6bf3b78dfe\output\AndroidManifest.xml:7:5-44
+MERGED from [jp.wasabeef:glide-transformations:2.0.1] C:\Users\Administrator\.android\build-cache\b2fbf41900874a9eb5d1de259ab431836f020d3f\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.zhy:flowlayout-lib:1.0.3] C:\Users\Administrator\.android\build-cache\3439d388ebc91bead4e012beb83faa958e771d2d\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.wx.wheelview:wheelview:1.3.3] C:\Users\Administrator\.android\build-cache\ca056ee812e424a806c9b896aaba1c73787aa305\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kyleduo.switchbutton:library:1.4.6] C:\Users\Administrator\.android\build-cache\3613833a7978b76eff85afc7e4e4d6a56017c910\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.xw.repo:bubbleseekbar:3.4] C:\Users\Administrator\.android\build-cache\fa258bbef11ce893cdda2349d81eeb4d33a8c052\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.frank-zhu:pullzoomview:1.0.0] C:\Users\Administrator\.android\build-cache\070b7c347961d6df1f854175b68ad856fa2b1e47\output\AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Administrator\.android\build-cache\5127abae23eb699f73d69f3386663cc1a45d652e\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.linyuzai:requestbutton:1.1.0] C:\Users\Administrator\.android\build-cache\f338df59f452e3b45b0d22859f08eda26bb7b72e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.open-android:PullToRefresh:v1.0] C:\Users\Administrator\.android\build-cache\0efad95c0e002ec0e58b19f4ae8c8d38cc2b6f37\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.codbking:CalendarExaple:v1.0.0] C:\Users\Administrator\.android\build-cache\6f2b305169598679078f01fb637bdde49a20e5c2\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Administrator\.android\build-cache\0d943ebc8ab98d6f6a2112808e2fca86b329aaee\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\bea13b46e16785873fc2ea11932e523a2801bef9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\ee284b5e688f8d945d7060cc7023dafc5b55765f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\Administrator\.android\build-cache\343b0a20a5978a8c57dbf9271e657f3263d84a96\output\AndroidManifest.xml:20:5-43
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\Administrator\.android\build-cache\aded6ca89ce04d074c5fac068b1530f7f9faa443\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.liulishuo.filedownloader:library:1.6.4] C:\Users\Administrator\.android\build-cache\761d139d994296c42245dfb24772496e814e25a9\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.r0adkll:slidableactivity:2.0.5] C:\Users\Administrator\.android\build-cache\db9d8f2eb55cf232f13eca5966556859e0ced413\output\AndroidManifest.xml:7:5-44
+MERGED from [cn.bingoogolapple:bga-progressbar:1.0.0] C:\Users\Administrator\.android\build-cache\da1f57466597837b3518cf166cbe15d2c11690e9\output\AndroidManifest.xml:6:5-8:41
+MERGED from [cn.bingoogolapple:bga-banner:2.1.8] C:\Users\Administrator\.android\build-cache\c522476ea74f7062b812e44b6a610894e5290428\output\AndroidManifest.xml:6:5-8:41
+MERGED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jcore:1.1.1] C:\Users\Administrator\.android\build-cache\b60c42f9c29d7894f3fdb19dc25fb66877b62950\output\AndroidManifest.xml:7:5-9:41
+MERGED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:8:5-10:40
+MERGED from [DuBei2.0:ambilWarna:unspecified] D:\DuBei2.0\ambilWarna\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [DuBei2.0:code:unspecified] D:\DuBei2.0\code\build\intermediates\bundles\default\AndroidManifest.xml:13:5-15:41
+MERGED from [DuBei2.0:library:unspecified] D:\DuBei2.0\library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\.android\build-cache\10ad72bd48d20b4bcae434e330262b36320edf9a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Administrator\.android\build-cache\df9a2d2d283466220a0ac3fd893d12b7245f7793\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\.android\build-cache\45128d7d0bf1f525662a65380cd59e80a7af89ae\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\.android\build-cache\28f79cdda104cfdbdc7967f1f09f8bb8145d269c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\.android\build-cache\d82d04b6c01417b64e56e6577920432e8b25cf1c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\.android\build-cache\803a9477f6e4c06db16f7767393c4c593e6b9132\output\AndroidManifest.xml:21:5-23:58
+MERGED from [DuBei2.0:superToasts:unspecified] D:\DuBei2.0\superToasts\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] C:\Users\Administrator\.android\build-cache\a53d7c9134758adadb5be541d856f3e1b1c65a25\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\DuBei2.0\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DuBei2.0\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\DuBei2.0\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DuBei2.0\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:palette-v7:25.3.0] C:\Users\Administrator\.android\build-cache\54b7a99563565a70f87d64a46f68c7ab7b74dd91\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.0] C:\Users\Administrator\.android\build-cache\a53d7c9134758adadb5be541d856f3e1b1c65a25\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.0] C:\Users\Administrator\.android\build-cache\4e9b04b96025ab5b2ae7d99cb5b923a1f72687cf\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Administrator\.android\build-cache\0d943ebc8ab98d6f6a2112808e2fca86b329aaee\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\bea13b46e16785873fc2ea11932e523a2801bef9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\ee284b5e688f8d945d7060cc7023dafc5b55765f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\Administrator\.android\build-cache\343b0a20a5978a8c57dbf9271e657f3263d84a96\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\.android\build-cache\10ad72bd48d20b4bcae434e330262b36320edf9a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Administrator\.android\build-cache\df9a2d2d283466220a0ac3fd893d12b7245f7793\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\.android\build-cache\45128d7d0bf1f525662a65380cd59e80a7af89ae\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\.android\build-cache\28f79cdda104cfdbdc7967f1f09f8bb8145d269c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\.android\build-cache\d82d04b6c01417b64e56e6577920432e8b25cf1c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\.android\build-cache\803a9477f6e4c06db16f7767393c4c593e6b9132\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:palette-v7:25.3.0] C:\Users\Administrator\.android\build-cache\54b7a99563565a70f87d64a46f68c7ab7b74dd91\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:palette-v7:25.3.0] C:\Users\Administrator\.android\build-cache\54b7a99563565a70f87d64a46f68c7ab7b74dd91\output\AndroidManifest.xml:23:9-47
+service#com.liulishuo.filedownloader.services.FileDownloadService$SharedMainProcessService
+ADDED from [com.liulishuo.filedownloader:library:1.6.4] C:\Users\Administrator\.android\build-cache\761d139d994296c42245dfb24772496e814e25a9\output\AndroidManifest.xml:12:9-118
+	android:name
+		ADDED from [com.liulishuo.filedownloader:library:1.6.4] C:\Users\Administrator\.android\build-cache\761d139d994296c42245dfb24772496e814e25a9\output\AndroidManifest.xml:12:18-115
+service#com.liulishuo.filedownloader.services.FileDownloadService$SeparateProcessService
+ADDED from [com.liulishuo.filedownloader:library:1.6.4] C:\Users\Administrator\.android\build-cache\761d139d994296c42245dfb24772496e814e25a9\output\AndroidManifest.xml:13:9-15:49
+	android:process
+		ADDED from [com.liulishuo.filedownloader:library:1.6.4] C:\Users\Administrator\.android\build-cache\761d139d994296c42245dfb24772496e814e25a9\output\AndroidManifest.xml:15:13-46
+	android:name
+		ADDED from [com.liulishuo.filedownloader:library:1.6.4] C:\Users\Administrator\.android\build-cache\761d139d994296c42245dfb24772496e814e25a9\output\AndroidManifest.xml:14:13-108
+uses-permission#android.permission.CAMERA
+ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:15:22-62
+activity#com.alibaba.sdk.android.feedback.windvane.CustomHybirdActivity
+ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:19:9-24:58
+	android:screenOrientation
+		ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:22:13-49
+	android:windowSoftInputMode
+		ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:24:13-55
+	android:configChanges
+		ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:21:13-63
+	android:theme
+		ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:23:13-63
+	android:name
+		ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:20:13-90
+activity#com.alibaba.sdk.android.feedback.impl.ErrorPageActivity
+ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:25:9-29:66
+	android:screenOrientation
+		ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:28:13-49
+	android:configChanges
+		ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:27:13-63
+	android:theme
+		ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:29:13-63
+	android:name
+		ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:26:13-83
+receiver#com.alibaba.sdk.android.feedback.impl.NetworkChangeReceiver
+ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:31:9-38:20
+	android:enabled
+		ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:33:13-35
+	android:exported
+		ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:32:13-87
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:35:13-37:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:36:17-79
+	android:name
+		ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:36:25-76
+service#com.alibaba.mtl.appmonitor.AppMonitorService
+ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:40:9-80
+	android:name
+		ADDED from [:alisdk-feedback-2.5.2:] C:\Users\Administrator\.android\build-cache\99d9ed42b70ef931533e44a9d2d69adbc0a1f54a\output\AndroidManifest.xml:40:18-77
+uses-permission#android.permission.READ_SETTINGS
+ADDED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:21:5-72
+MERGED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:21:22-69
+uses-permission#android.permission.GET_TASKS
+ADDED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:22:5-68
+MERGED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from [:securityguardaar3-5.1.96:] C:\Users\Administrator\.android\build-cache\30be0b1474fc14561b0253025155f232765bc9cb\output\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:11:5-78
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:30:5-78
+	android:name
+		ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:11:22-75
+uses-feature#android.hardware.location.gps
+ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:14:9-53
+uses-feature#android.hardware.location.network
+ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:17:9-57
+uses-permission#android.permission.READ_LOGS
+ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:27:22-65
+activity#com.bugtags.library.BugtagsActivity
+ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:30:9-33:86
+	android:configChanges
+		ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:32:13-74
+	android:theme
+		ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:33:13-83
+	android:name
+		ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:31:13-63
+service#com.bugtags.library.BugtagsService
+ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:35:9-70
+	android:name
+		ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:35:18-67
+receiver#com.bugtags.library.BugtagsReceiver
+ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:37:9-41:20
+	android:name
+		ADDED from [com.bugtags.library:bugtags-lib:3.0.0] C:\Users\Administrator\.android\build-cache\1c65c1b2e85dbd5ce0d70766a24777061f9e780f\output\AndroidManifest.xml:37:19-69
+uses-permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:24:5-66
+MERGED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:24:22-63
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:35:22-76
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:40:9-43:52
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:42:13-37
+	android:theme
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:41:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:46:9-57:20
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:49:13-37
+	android:configChanges
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:48:13-63
+	android:theme
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:50:13-60
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:47:13-60
+intent-filter#${JPUSH_PKGNAME}+android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:51:13-56:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:52:17-75
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:52:25-72
+category#${JPUSH_PKGNAME}
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:55:17-61
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:55:27-58
+service#cn.jpush.android.service.DownloadService
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:59:9-62:40
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:61:13-35
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:60:13-68
+service#cn.jpush.android.service.PushService
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:66:9-77:19
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:68:13-35
+	android:process
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:70:13-40
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:69:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:67:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:71:13-76:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:72:17-75
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:72:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:73:17-73
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:73:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:74:17-78
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:74:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:75:17-76
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:75:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:81:9-90:19
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:83:13-35
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:84:13-36
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:82:13-66
+intent-filter#${JPUSH_PKGNAME}+cn.jpush.android.intent.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:85:13-89:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:86:17-80
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:86:25-77
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:93:9-113:20
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:95:13-35
+	android:process
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:97:13-40
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:96:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:94:13-65
+intent-filter#${JPUSH_PKGNAME}+cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:98:13-101:29
+	android:priority
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:98:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:99:17-94
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:99:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:102:13-105:29
+action#android.intent.action.USER_PRESENT
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:103:17-77
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:103:25-74
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:107:13-112:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:108:17-78
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:108:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:109:17-80
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:109:25-77
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:116:9-118:40
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:118:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:117:13-66
+meta-data#JPUSH_CHANNEL
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:121:9-123:48
+	android:value
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:123:13-45
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:122:13-41
+meta-data#JPUSH_APPKEY
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:124:9-126:47
+	android:value
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:126:13-44
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] C:\Users\Administrator\.android\build-cache\9505df78abdb5b2e468dab0213f3740f041776fc\output\AndroidManifest.xml:125:13-40
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:23:22-77
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:25:5-95
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:25:22-92
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:28:5-86
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:28:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:29:5-87
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:29:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:30:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:31:5-83
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:31:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:32:5-88
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:32:22-85
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:33:5-84
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:33:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:35:5-92
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:35:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:36:5-93
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:36:22-90
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:37:22-88
+activity#com.alibaba.mobileim.ui.WxChattingActvity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:47:9-53:70
+	android:screenOrientation
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:51:13-49
+	android:launchMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:50:13-43
+	android:windowSoftInputMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:53:13-67
+	android:configChanges
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:49:13-63
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:48:13-69
+activity#com.alibaba.mobileim.ui.WxViewMergedForwardMsgActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:54:9-60:70
+	android:screenOrientation
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:58:13-49
+	android:launchMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:57:13-43
+	android:windowSoftInputMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:60:13-67
+	android:configChanges
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:56:13-63
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:59:13-69
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:55:13-82
+activity#com.alibaba.mobileim.ui.WxConversationActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:63:9-68:69
+	android:screenOrientation
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:67:13-49
+	android:launchMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:66:13-43
+	android:configChanges
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:65:13-63
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:68:13-66
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:64:13-74
+activity#com.alibaba.mobileim.ui.chat.MultiImageActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:71:9-77:55
+	android:screenOrientation
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:75:13-47
+	android:hardwareAccelerated
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:73:13-48
+	android:launchMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:74:13-43
+	android:windowSoftInputMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:77:13-52
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:76:13-64
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:72:13-75
+activity#com.alibaba.mobileim.kit.imageviewer.ShowImageActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:78:9-84:55
+	android:screenOrientation
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:82:13-49
+	android:hardwareAccelerated
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:80:13-48
+	android:launchMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:81:13-43
+	android:windowSoftInputMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:84:13-52
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:83:13-64
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:79:13-82
+activity#com.alibaba.mobileim.ui.multi.lightservice.MultiPickGalleryActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:85:9-89:69
+	android:screenOrientation
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:88:13-49
+	android:configChanges
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:87:13-63
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:89:13-66
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:86:13-95
+activity#com.alibaba.mobileim.ui.selectfriend.SelectFriendsActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:90:9-94:69
+	android:screenOrientation
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:93:13-49
+	android:configChanges
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:92:13-63
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:94:13-66
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:91:13-86
+activity#com.alibaba.mobileim.ui.FeedbackActvity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:96:9-102:70
+	android:screenOrientation
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:100:13-49
+	android:launchMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:99:13-43
+	android:windowSoftInputMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:102:13-67
+	android:configChanges
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:98:13-63
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:101:13-59
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:97:13-67
+service#com.alibaba.mobileim.appmonitor.tiptool.TooltipService
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:105:9-108:19
+	android:exported
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:107:13-37
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:106:13-82
+service#com.alibaba.tcms.service.TCMSService
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:111:9-115:19
+	android:process
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:114:13-43
+	android:exported
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:113:13-36
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:112:13-64
+service#com.alibaba.tcms.service.TCMSService$TCMSKernalService
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:116:9-119:19
+	android:process
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:118:13-43
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:117:13-82
+service#com.alibaba.tcms.service.ListenerService
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:122:9-125:19
+	android:exported
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:124:13-36
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:123:13-68
+activity#com.alibaba.mobileim.kit.CloudPwdSettingHintActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:128:9-133:69
+	android:screenOrientation
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:132:13-49
+	android:launchMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:131:13-43
+	android:configChanges
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:130:13-63
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:133:13-66
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:129:13-80
+activity#com.alibaba.mobileim.login.WaitProgresssActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:136:9-85
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:136:19-82
+activity#com.alibaba.mobileim.ui.atmessage.AtMsgListActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:139:9-144:69
+	android:screenOrientation
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:143:13-49
+	android:launchMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:142:13-44
+	android:configChanges
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:141:13-63
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:144:13-66
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:140:13-79
+activity#com.alibaba.mobileim.ui.atmessage.SendAtMessageDetailActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:145:9-150:69
+	android:screenOrientation
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:149:13-49
+	android:launchMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:148:13-43
+	android:configChanges
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:147:13-63
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:150:13-66
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:146:13-89
+activity#com.alibaba.mobileim.kit.chat.SelectTribeMemberActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:151:9-156:70
+	android:screenOrientation
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:154:13-49
+	android:windowSoftInputMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:156:13-67
+	android:configChanges
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:153:13-63
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:155:13-66
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:152:13-83
+activity#com.alibaba.mobileim.kit.chat.EnlargeChattingTextActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:157:9-161:70
+	android:windowSoftInputMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:161:13-67
+	android:configChanges
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:159:13-63
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:160:13-60
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:158:13-85
+activity#com.alibaba.tcms.service.MonitorActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:162:9-167:64
+	android:process
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:166:13-43
+	android:launchMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:165:13-48
+	android:exported
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:164:13-36
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:167:13-61
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:163:13-68
+activity#com.alibaba.mobileim.kit.video.IMPlayVideoDetailActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:168:9-189:20
+	android:screenOrientation
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:171:13-49
+	android:configChanges
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:170:13-63
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:172:13-60
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:169:13-84
+activity#com.alibaba.mobileim.ui.web.CustomHybridActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:190:9-195:55
+	android:screenOrientation
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:193:13-49
+	android:launchMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:192:13-43
+	android:windowSoftInputMode
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:195:13-52
+	android:theme
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:194:13-64
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:191:13-76
+activity#com.alibaba.mobileim.appmonitor.floatview.FloatViewActivity
+ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:196:9-96
+	android:name
+		ADDED from [DuBei2.0:oneSDK:unspecified] D:\DuBei2.0\oneSDK\build\intermediates\bundles\default\AndroidManifest.xml:196:19-93

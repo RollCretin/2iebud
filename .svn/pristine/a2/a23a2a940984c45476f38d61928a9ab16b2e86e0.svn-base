@@ -1,0 +1,168 @@
+[
+    {
+        "outputFile": "E:\\DuBei2.0\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\default\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 56,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\default\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 56,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 49,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "E:\\DuBei2.0\\code\\build\\intermediates\\bundles\\default\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 49,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endLine": 9,
+                    "endColumn": 13,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c8e4d5eb5dea8a0f0bbd504307632ec5fe676ff2\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\DuBei2.0\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "D:\\DuBei2.0\\code\\build\\intermediates\\bundles\\default\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 56,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "D:\\DuBei2.0\\code\\build\\intermediates\\bundles\\default\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 56,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 49,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "D:\\DuBei2.0\\code\\build\\intermediates\\bundles\\default\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 49,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endLine": 9,
+                    "endColumn": 13,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\0d943ebc8ab98d6f6a2112808e2fca86b329aaee\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    }
+]
