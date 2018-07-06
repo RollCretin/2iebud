@@ -2,11 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ambilWarna" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/app" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/code" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/library" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/oneSDK" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/superToasts" vcs="svn" />
   </component>
 </project>
